@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+8023,2019,13371,7627,Andrea Ghion,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9483,2019,13419,7627,Andrea Ghion,a,Sub,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10848,2019,13461,7627,Andrea Ghion,h,Sub,18.0,0.0,0.0,1.0,0.0,0.0,0.0560006313025951,0.0213552452623844,0.0,0.1893571391701698,0.0

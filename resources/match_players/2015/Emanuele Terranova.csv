@@ -1,0 +1,7 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+1509,2015,605,1527,Emanuele Terranova,h,DC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1747,2015,613,1527,Emanuele Terranova,a,DC,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2131,2015,627,1527,Emanuele Terranova,h,Sub,180.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,-0.5
+2397,2015,636,1527,Emanuele Terranova,a,Sub,187.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0
+2974,2015,657,1527,Emanuele Terranova,a,DC,198.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0
+8290,2015,848,1527,Emanuele Terranova,h,Sub,278.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0

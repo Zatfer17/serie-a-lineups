@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+5236,2014,4984,3813,Luka Djordjevic,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9576,2014,4792,3813,Luka Djordjevic,a,Sub,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10105,2014,4811,3813,Luka Djordjevic,a,FW,35.0,0.0,0.0,3.0,0.0,0.0,0.543914258480072,0.3533235788345337,0.0,1.985066354274749,0.0

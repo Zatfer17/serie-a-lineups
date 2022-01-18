@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+1606,2017,7557,1437,Ângelo Da Costa,a,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2805,2017,7604,1437,Ângelo Da Costa,a,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3042,2017,7610,1437,Ângelo Da Costa,h,GK,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10408,2017,7871,1437,Ângelo Da Costa,a,GK,270.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

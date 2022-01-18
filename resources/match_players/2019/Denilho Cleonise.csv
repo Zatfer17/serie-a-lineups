@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+3154,2019,13204,8144,Denilho Cleonise,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3599,2019,13217,8144,Denilho Cleonise,a,Sub,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,-0.5
+4224,2019,13243,8144,Denilho Cleonise,h,Sub,23.0,0.0,0.0,1.0,1.0,0.0,0.0837945267558097,0.0,-0.5,-0.2486164197325707,0.0
+4573,2019,13251,8144,Denilho Cleonise,a,Sub,24.0,0.0,0.0,1.0,2.0,0.0,0.0837945267558097,0.0,-1.0,-0.7486164197325706,-0.5

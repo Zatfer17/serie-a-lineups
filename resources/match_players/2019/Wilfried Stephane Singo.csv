@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+7649,2019,13360,7472,Wilfried Stephane Singo,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9111,2019,13404,7472,Wilfried Stephane Singo,a,Sub,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9376,2019,13411,7472,Wilfried Stephane Singo,h,Sub,36.0,0.0,0.0,1.0,0.0,0.0,0.0546160638332366,0.0,0.0,0.16384819149971,0.0
+10616,2019,13454,7472,Wilfried Stephane Singo,h,DMR,37.0,0.0,0.0,1.0,0.0,0.0,0.0546160638332366,0.0,0.0,0.16384819149971,0.0

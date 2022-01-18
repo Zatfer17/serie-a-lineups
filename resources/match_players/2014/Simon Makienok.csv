@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+556,2014,5118,3841,Simon Makienok,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1381,2014,5148,3841,Simon Makienok,h,Sub,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1479,2014,5071,3841,Simon Makienok,a,Sub,16.0,0.0,0.0,1.0,0.0,0.0,0.0156699232757091,0.0,0.0,0.0470097698271274,0.0
+1773,2014,5082,3841,Simon Makienok,h,Sub,48.0,0.0,0.0,1.0,0.0,0.0,0.0156699232757091,0.0,0.0,0.0470097698271274,0.0

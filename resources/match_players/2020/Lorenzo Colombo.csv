@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+462,2020,14130,8478,Lorenzo Colombo,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+847,2020,15454,8478,Lorenzo Colombo,h,FW,29.0,0.0,0.0,1.0,0.0,0.0,0.1097399666905403,0.0,0.0,0.3292199000716209,0.0
+2423,2020,15500,8478,Lorenzo Colombo,a,Sub,78.0,0.0,0.0,3.0,0.0,0.0,0.2779993340373039,0.0,0.0,0.8339980021119118,0.0
+4831,2020,15581,8478,Lorenzo Colombo,h,Sub,86.0,0.0,0.0,4.0,0.0,0.0,0.417863093316555,0.0,0.0,1.253589279949665,0.0

@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+182,2021,16761,504,Aaron Ramsey,a,MC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+683,2021,16781,504,Aaron Ramsey,a,Sub,61.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0736265704035759,0.0,0.0736265704035759,0.0
+1675,2021,16809,504,Aaron Ramsey,h,Sub,79.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0736265704035759,0.0,0.0736265704035759,0.0

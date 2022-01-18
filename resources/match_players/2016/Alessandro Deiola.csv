@@ -1,0 +1,6 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+485,2016,948,1634,Alessandro Deiola,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8252,2016,3634,1634,Alessandro Deiola,a,Sub,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8738,2016,3654,1634,Alessandro Deiola,h,MC,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9031,2016,3663,1634,Alessandro Deiola,a,MC,88.0,0.0,0.0,2.0,1.0,0.0,0.0412250831723213,0.0,-0.5,-0.376324750483036,-0.5
+10387,2016,3717,1634,Alessandro Deiola,h,MC,168.0,0.0,0.0,3.0,1.0,0.0,0.057600144296884495,0.0,-0.5,-0.3271995671093464,0.0

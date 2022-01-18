@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+92,2016,934,1535,Accursio Bentivegna,h,FWR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+596,2016,952,1535,Accursio Bentivegna,h,Sub,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2188,2016,1009,1535,Accursio Bentivegna,h,AMC,76.0,0.0,0.0,1.0,0.0,0.0,0.0290357638150453,0.0,0.0,0.087107291445136,0.0

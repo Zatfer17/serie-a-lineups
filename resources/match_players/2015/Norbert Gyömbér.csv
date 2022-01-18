@@ -1,0 +1,7 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+1783,2015,614,1599,Norbert Gyömbér,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2481,2015,639,1599,Norbert Gyömbér,a,Sub,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2661,2015,646,1599,Norbert Gyömbér,h,Sub,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4375,2015,707,1599,Norbert Gyömbér,a,Sub,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4794,2015,722,1599,Norbert Gyömbér,a,Sub,32.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,-0.5
+6158,2015,771,1599,Norbert Gyömbér,a,Sub,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0

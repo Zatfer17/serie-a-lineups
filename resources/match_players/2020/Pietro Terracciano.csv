@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+8443,2020,15701,6977,Pietro Terracciano,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10746,2020,15777,6977,Pietro Terracciano,a,Sub,47.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11117,2020,15792,6977,Pietro Terracciano,h,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11345,2020,15797,6977,Pietro Terracciano,a,GK,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

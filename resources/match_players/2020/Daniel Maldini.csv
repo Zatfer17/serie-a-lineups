@@ -1,0 +1,6 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+851,2020,15454,8163,Daniel Maldini,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3857,2020,15554,8163,Daniel Maldini,a,Sub,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4054,2020,15559,8163,Daniel Maldini,h,Sub,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4830,2020,15581,8163,Daniel Maldini,h,Sub,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4924,2020,15590,8163,Daniel Maldini,h,Sub,15.0,0.0,0.0,1.0,0.0,0.0,0.1779614984989166,0.0,0.0,0.5338844954967499,0.0

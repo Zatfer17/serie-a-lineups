@@ -1,0 +1,3 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+133,2021,16760,7933,Jerdy Schouten,h,DMC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2631,2021,16837,7933,Jerdy Schouten,h,Sub,90.0,0.0,1.0,1.0,0.0,1.0,0.0240057781338691,0.0765509828925132,0.5,-0.3514316827058792,0.5

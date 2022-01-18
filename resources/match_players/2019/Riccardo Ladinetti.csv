@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+9467,2019,13419,6388,Riccardo Ladinetti,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10280,2019,13447,6388,Riccardo Ladinetti,h,MC,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10765,2019,13464,6388,Riccardo Ladinetti,a,Sub,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0450653806328773,0.0,0.0450653806328773,0.0

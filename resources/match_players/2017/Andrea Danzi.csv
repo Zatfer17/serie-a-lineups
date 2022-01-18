@@ -1,0 +1,6 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+9145,2017,7827,6375,Andrea Danzi,h,MC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9466,2017,7833,6375,Andrea Danzi,a,MC,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9773,2017,7854,6375,Andrea Danzi,a,MC,180.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,-0.5
+10212,2017,7868,6375,Andrea Danzi,h,Sub,270.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0
+10332,2017,7874,6375,Andrea Danzi,a,MC,301.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0

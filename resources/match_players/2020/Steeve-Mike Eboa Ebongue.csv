@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+1170,2020,15465,9043,Steeve-Mike Eboa Ebongue,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4895,2020,15588,9043,Steeve-Mike Eboa Ebongue,h,Sub,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11006,2020,15786,9043,Steeve-Mike Eboa Ebongue,h,Sub,38.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3837682604789734,1.0,0.3837682604789734,1.0

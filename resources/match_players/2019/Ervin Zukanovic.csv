@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+5991,2019,13303,1497,Ervin Zukanovic,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6424,2019,13324,1497,Ervin Zukanovic,a,DC,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6741,2019,13336,1497,Ervin Zukanovic,h,DC,111.0,0.0,0.0,1.0,0.0,0.0,0.0138110648840665,0.0,0.0,0.0414331946521997,0.0

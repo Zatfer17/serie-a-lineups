@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+3080,2014,5050,1504,Alberto Grassi,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10213,2014,4815,1504,Alberto Grassi,a,MC,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10340,2014,4820,1504,Alberto Grassi,h,MC,111.0,0.0,0.0,1.0,0.0,0.0,0.031656015664339,0.0,0.0,0.0949680469930172,0.0

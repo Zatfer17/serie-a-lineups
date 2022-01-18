@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+5721,2016,3548,4939,Alessandro Bastoni,h,DC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7638,2016,3612,4939,Alessandro Bastoni,a,Sub,90.0,0.0,0.0,1.0,0.0,0.0,0.073399007320404,0.0,0.0,0.2201970219612121,0.0
+9567,2016,3682,4939,Alessandro Bastoni,a,Sub,119.0,0.0,0.0,1.0,0.0,0.0,0.073399007320404,0.0,0.0,0.2201970219612121,0.0

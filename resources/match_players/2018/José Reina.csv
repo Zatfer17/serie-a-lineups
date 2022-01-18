@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+8048,2018,9872,1374,José Reina,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8354,2018,9886,1374,José Reina,a,GK,79.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8647,2018,9891,1374,José Reina,h,GK,169.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10568,2018,9955,1374,José Reina,a,Sub,259.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,6 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+2040,2017,7570,3287,Gregory Van der Wiel,h,DR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4139,2017,7649,3287,Gregory Van der Wiel,h,Sub,47.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4479,2017,7666,3287,Gregory Van der Wiel,a,DMR,105.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0271172858774662,0.0,0.0271172858774662,0.0
+4715,2017,7669,3287,Gregory Van der Wiel,h,DMR,195.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0271172858774662,0.0,0.0271172858774662,0.0
+5502,2017,7694,3287,Gregory Van der Wiel,h,Sub,285.0,0.0,0.0,1.0,0.0,0.0,0.0150429774075746,0.0271172858774662,0.0,0.0722462181001901,0.0

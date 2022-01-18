@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+276,2019,13098,7974,Romario Benzar,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392,2019,13103,7974,Romario Benzar,h,DR,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1015,2019,13124,7974,Romario Benzar,h,Sub,79.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0942997336387634,0.0,0.0942997336387634,0.0

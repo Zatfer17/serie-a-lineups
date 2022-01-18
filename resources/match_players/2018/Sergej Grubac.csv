@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+8798,2018,9888,7149,Sergej Grubac,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9494,2018,9917,7149,Sergej Grubac,h,FW,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10009,2018,9935,7149,Sergej Grubac,a,FW,106.0,0.0,0.0,2.0,0.0,0.0,0.3254692852497101,0.0559989176690578,0.0,1.032406773418188,0.0

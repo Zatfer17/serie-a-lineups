@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+432,2019,13104,6572,Guilherme Arana,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1070,2019,13119,6572,Guilherme Arana,h,Sub,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1476,2019,13147,6572,Guilherme Arana,a,Sub,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3236,2019,13206,6572,Guilherme Arana,a,Sub,41.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0395875535905361,0.0,0.0395875535905361,0.0

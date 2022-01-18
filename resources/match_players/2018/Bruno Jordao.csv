@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+6556,2018,9810,6336,Bruno Jordao,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8882,2018,9821,6336,Bruno Jordao,h,Sub,17.0,0.0,0.0,1.0,0.0,0.0,0.0091972295194864,0.0,0.0,0.0275916885584592,0.0
+10369,2018,9956,6336,Bruno Jordao,a,MC,27.0,0.0,0.0,1.0,0.0,0.0,0.0091972295194864,0.0,0.0,0.0275916885584592,0.0

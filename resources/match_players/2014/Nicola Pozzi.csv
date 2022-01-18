@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+3219,2014,5055,3877,Nicola Pozzi,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4929,2014,4973,3877,Nicola Pozzi,a,Sub,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0972749218344688,0.0,0.0972749218344688,0.0
+5220,2014,4984,3877,Nicola Pozzi,h,Sub,15.0,0.0,0.0,1.0,0.0,0.0,0.1388636976480484,0.137557666748762,0.0,0.5541487596929073,0.0

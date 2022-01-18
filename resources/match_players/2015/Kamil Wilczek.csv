@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+135,2015,555,2049,Kamil Wilczek,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+454,2015,567,2049,Kamil Wilczek,h,FW,34.0,0.0,0.0,2.0,0.0,0.0,0.0991283953189849,0.0,0.0,0.2973851859569549,0.0
+2940,2015,656,2049,Kamil Wilczek,h,Sub,102.0,0.0,0.0,4.0,0.0,0.0,0.271765500307083,0.0,0.0,0.8152965009212494,0.0

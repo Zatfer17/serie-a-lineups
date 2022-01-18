@@ -1,0 +1,6 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+16,2015,551,1179,Leandro Castán,a,DC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1956,2015,621,1179,Leandro Castán,h,DC,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,-0.5
+3684,2015,683,1179,Leandro Castán,h,DC,180.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0
+5059,2015,732,1179,Leandro Castán,h,Sub,270.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0
+5440,2015,746,1179,Leandro Castán,h,DC,314.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0

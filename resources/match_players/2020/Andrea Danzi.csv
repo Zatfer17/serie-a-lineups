@@ -1,0 +1,3 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+38,2020,14117,6375,Andrea Danzi,h,MC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2516,2020,15506,6375,Andrea Danzi,a,Sub,90.0,0.0,0.0,1.0,1.0,0.0,0.0189129393547773,0.0586920045316219,-0.5,-0.384569177404046,-0.5

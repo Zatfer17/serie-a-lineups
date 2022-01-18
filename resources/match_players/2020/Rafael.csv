@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+587,2020,14134,1410,Rafael,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+853,2020,15454,1410,Rafael,a,GK,25.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3084475696086883,1.0,0.3084475696086883,1.0
+11582,2020,15803,1410,Rafael,h,GK,115.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3084475696086883,1.0,0.3084475696086883,0.0

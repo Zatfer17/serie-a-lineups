@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+7977,2014,4837,2027,Andrea Lazzari,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8609,2014,4860,2027,Andrea Lazzari,h,MC,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9367,2014,4785,2027,Andrea Lazzari,h,Sub,76.0,0.0,0.0,2.0,0.0,0.0,0.0746546015143394,0.2163789868354797,0.0,0.4403427913784981,0.0

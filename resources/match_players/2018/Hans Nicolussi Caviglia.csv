@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+7211,2018,9842,7483,Hans Nicolussi Caviglia,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8616,2018,9895,7483,Hans Nicolussi Caviglia,a,Sub,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10538,2018,9954,7483,Hans Nicolussi Caviglia,a,Sub,36.0,0.0,0.0,1.0,0.0,0.0,0.0271956752985715,0.0,0.0,0.0815870258957147,0.0

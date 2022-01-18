@@ -1,0 +1,8 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+1661,2014,5078,3912,Giandomenico Mesto,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4114,2014,5017,3912,Giandomenico Mesto,a,DR,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6582,2014,4953,3912,Giandomenico Mesto,h,Sub,93.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7112,2014,4896,3912,Giandomenico Mesto,h,Sub,94.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7337,2014,4904,3912,Giandomenico Mesto,a,DR,95.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8576,2014,4858,3912,Giandomenico Mesto,a,Sub,164.0,0.0,0.0,1.0,1.0,0.0,0.0286239087581634,0.0,-0.5,-0.4141282737255096,-0.5
+9999,2014,4808,3912,Giandomenico Mesto,h,DR,183.0,0.0,0.0,1.0,1.0,0.0,0.0286239087581634,0.0,-0.5,-0.4141282737255096,0.0

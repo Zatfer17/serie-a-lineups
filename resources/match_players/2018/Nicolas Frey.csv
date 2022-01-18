@@ -1,0 +1,6 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+5862,2018,9790,1344,Nicolas Frey,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6141,2018,9799,1344,Nicolas Frey,h,DR,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7644,2018,9847,1344,Nicolas Frey,a,Sub,43.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9487,2018,9917,1344,Nicolas Frey,h,DC,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10338,2018,9951,1344,Nicolas Frey,a,DC,134.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0204358454793691,0.0,0.0204358454793691,0.0

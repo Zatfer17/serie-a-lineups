@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+1223,2015,594,2021,Salih Ucan,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1784,2015,614,2021,Salih Ucan,a,Sub,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1965,2015,621,2021,Salih Ucan,h,Sub,15.0,0.0,1.0,1.0,0.0,0.0,0.1064339578151702,0.1169160008430481,1.0,0.4362178742885589,1.0

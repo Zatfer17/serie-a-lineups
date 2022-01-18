@@ -1,0 +1,49 @@
+#features:
+# match:
+#   homeTeam
+#   awayTeam
+#   season
+#   month
+#   day
+#   dayNumber
+# come giochi
+#   time
+#   games
+#   xG90
+#   xA90
+#   xB90
+# in che squadra giochi
+#   (ranking)
+#   xG90
+#   (xG90OP)
+#   (xG90FC)
+#   (xG90SP)
+#   (xG90P)
+#   xGC90
+#   (xGC90OP)
+#   (xGC90FC)
+#   (xGC90SP)
+#   (xGC90P)
+#   (last3 (eg WLW as category))
+# contro chi giochi
+#   (ranking)
+#   xG90
+#   (xG90OP)
+#   (xG90FC)
+#   (xG90SP)
+#   (xG90P)
+#   xGC90
+#   (xGC90OP)
+#   (xGC90FC)
+#   (xGC90SP)
+#   (xGC90P)
+#   (last3 (eg WLW as category))
+# league stats
+#   (hxG)
+#   (axG)
+
+#TODO
+#   homeOdds
+#   awayOdds
+#   drawOdds
+#   xB conceded per role

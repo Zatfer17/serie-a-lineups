@@ -1,0 +1,4 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+649,2020,15446,1224,Vasco Regini,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2311,2020,15502,1224,Vasco Regini,h,DL,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11404,2020,15802,1224,Vasco Regini,h,Sub,76.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0442039556801319,0.0,0.0442039556801319,0.0

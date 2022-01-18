@@ -1,0 +1,5 @@
+,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
+5718,2014,4922,1982,Anders Christiansen,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7265,2014,4901,1982,Anders Christiansen,a,Sub,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9293,2014,4782,1982,Anders Christiansen,a,MC,67.0,0.0,0.0,1.0,0.0,0.0,0.0137971965596079,0.0,0.0,0.0413915896788239,0.0
+9935,2014,4805,1982,Anders Christiansen,a,MC,157.0,0.0,0.0,3.0,0.0,0.0,0.0884849308058618,0.0,0.0,0.2654547924175858,0.0
