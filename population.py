@@ -133,24 +133,25 @@ async def get_players(seasons):
                     )
                 for team in teams:
                     for player in teams[team]:
-                        data.append([
-                            season,
-                            match_id,
-                            teams[team][player]['player_id'],
-                            teams[team][player]['player'],
-                            teams[team][player]['h_a'],
-                            teams[team][player]['position'],
-                            float(teams[team][player]['time']),
-                            float(teams[team][player]['goals']),
-                            float(teams[team][player]['assists']),
-                            float(teams[team][player]['shots']),
-                            float(teams[team][player]['yellow_card']),
-                            float(teams[team][player]['red_card']),
-                            float(teams[team][player]['xG']),
-                            float(teams[team][player]['xA']),
-                            3*float(teams[team][player]['goals'])+float(teams[team][player]['assists'])-0.5*float(teams[team][player]['yellow_card'])-0.5*float(teams[team][player]['red_card']),
-                            3*float(teams[team][player]['xG'])+float(teams[team][player]['xA'])-0.5*float(teams[team][player]['yellow_card'])-0.5*float(teams[team][player]['red_card']),
-                        ])
+                        if teams[team][player]['time'] >= 15 and teams[team][player]['position'] != 'GK':
+                            data.append([
+                                season,
+                                match_id,
+                                teams[team][player]['player_id'],
+                                teams[team][player]['player'],
+                                teams[team][player]['h_a'],
+                                teams[team][player]['position'],
+                                float(teams[team][player]['time']),
+                                float(teams[team][player]['goals']),
+                                float(teams[team][player]['assists']),
+                                float(teams[team][player]['shots']),
+                                float(teams[team][player]['yellow_card']),
+                                float(teams[team][player]['red_card']),
+                                float(teams[team][player]['xG']),
+                                float(teams[team][player]['xA']),
+                                3*float(teams[team][player]['goals'])+float(teams[team][player]['assists'])-0.5*float(teams[team][player]['yellow_card'])-0.5*float(teams[team][player]['red_card']),
+                                3*float(teams[team][player]['xG'])+float(teams[team][player]['xA'])-0.5*float(teams[team][player]['yellow_card'])-0.5*float(teams[team][player]['red_card']),
+                            ])
             df = pd.DataFrame(data=data, columns=[
                 'season',
                 'matchId',
