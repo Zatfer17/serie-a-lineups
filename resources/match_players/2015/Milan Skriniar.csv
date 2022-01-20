@@ -1,4 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-9571,2015,894,1223,Milan Skriniar,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-9852,2015,904,1223,Milan Skriniar,a,DC,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,-0.5
-10329,2015,921,1223,Milan Skriniar,a,DC,91.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0
+8272,2015,904,1223,Milan Skriniar,a,DC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

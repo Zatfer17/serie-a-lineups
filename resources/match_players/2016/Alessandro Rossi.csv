@@ -1,4 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-5089,2016,3525,2031,Alessandro Rossi,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5785,2016,3550,2031,Alessandro Rossi,h,Sub,7.0,0.0,0.0,1.0,0.0,0.0,0.0294391587376594,0.0,0.0,0.0883174762129783,0.0
-10518,2016,3716,2031,Alessandro Rossi,a,Sub,21.0,0.0,0.0,1.0,0.0,0.0,0.0294391587376594,0.0,0.0,0.0883174762129783,0.0
+8822,2016,3716,2031,Alessandro Rossi,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

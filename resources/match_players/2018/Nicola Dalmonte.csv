@@ -1,4 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-754,2018,9605,3861,Nicola Dalmonte,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5513,2018,9770,3861,Nicola Dalmonte,h,Sub,20.0,0.0,0.0,1.0,0.0,0.0,0.0608980767428875,0.0,0.0,0.1826942302286625,0.0
-7128,2018,9833,3861,Nicola Dalmonte,h,Sub,25.0,0.0,0.0,1.0,0.0,0.0,0.0608980767428875,0.0,0.0,0.1826942302286625,0.0
+627,2018,9605,3861,Nicola Dalmonte,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

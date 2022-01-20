@@ -1,5 +1,3 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-7066,2016,3593,4933,Leonardo Morosini,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-7568,2016,3619,4933,Leonardo Morosini,h,Sub,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8183,2016,3632,4933,Leonardo Morosini,h,Sub,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8501,2016,3644,4933,Leonardo Morosini,a,AMC,36.0,0.0,0.0,1.0,0.0,0.0,0.0161894988268613,0.0,0.0,0.0485684964805841,0.0
+6851,2016,3632,4933,Leonardo Morosini,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7118,2016,3644,4933,Leonardo Morosini,a,AMC,34.0,0.0,0.0,1.0,0.0,0.0,0.0161894988268613,0.0,0.0,0.0485684964805841,0.0

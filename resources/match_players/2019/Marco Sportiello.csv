@@ -1,7 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-1464,2019,13147,1501,Marco Sportiello,a,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-4856,2019,13259,1501,Marco Sportiello,h,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5520,2019,13279,1501,Marco Sportiello,h,GK,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8449,2019,13386,1501,Marco Sportiello,a,GK,270.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-9112,2019,13410,1501,Marco Sportiello,h,GK,360.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-10688,2019,13459,1501,Marco Sportiello,h,Sub,440.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8847,2019,13459,1501,Marco Sportiello,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

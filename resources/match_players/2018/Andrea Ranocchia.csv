@@ -1,5 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-6015,2018,9793,1522,Andrea Ranocchia,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-6948,2018,9831,1522,Andrea Ranocchia,a,Sub,10.0,0.0,0.0,1.0,0.0,0.0,0.0639867857098579,0.0,0.0,0.1919603571295738,0.0
-7351,2018,9841,1522,Andrea Ranocchia,h,Sub,11.0,0.0,0.0,2.0,0.0,0.0,0.1033791676163673,0.0,0.0,0.310137502849102,0.0
-7756,2018,9856,1522,Andrea Ranocchia,a,Sub,50.0,0.0,0.0,2.0,1.0,0.0,0.1033791676163673,0.0,-0.5,-0.18986249715089798,-0.5
+6125,2018,9841,1522,Andrea Ranocchia,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

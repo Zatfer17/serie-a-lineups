@@ -1,4 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-1336,2015,598,1958,Mattia Zaccagni,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2579,2015,643,1958,Mattia Zaccagni,h,Sub,13.0,0.0,0.0,1.0,0.0,0.0,0.0277835372835397,0.0,0.0,0.0833506118506193,0.0
-4114,2015,698,1958,Mattia Zaccagni,h,Sub,33.0,0.0,0.0,1.0,0.0,0.0,0.0277835372835397,0.0,0.0,0.0833506118506193,0.0
+2169,2015,643,1958,Mattia Zaccagni,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,5 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-1169,2020,15465,1348,Vittorio Parigini,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1801,2020,15448,1348,Vittorio Parigini,h,Sub,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2391,2020,15504,1348,Vittorio Parigini,a,Sub,30.0,0.0,0.0,1.0,0.0,0.0,0.0142199024558067,0.0,0.0,0.0426597073674202,0.0
-2709,2020,15510,1348,Vittorio Parigini,h,Sub,37.0,0.0,0.0,1.0,0.0,0.0,0.0142199024558067,0.0,0.0,0.0426597073674202,0.0
+1458,2020,15448,1348,Vittorio Parigini,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

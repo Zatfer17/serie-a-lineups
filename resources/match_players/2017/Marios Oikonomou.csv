@@ -1,5 +1,4 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-155,2017,7504,1453,Marios Oikonomou,a,DC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2694,2017,7596,1453,Marios Oikonomou,a,DC,57.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3445,2017,7626,1453,Marios Oikonomou,h,Sub,121.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5154,2017,7687,1453,Marios Oikonomou,a,Sub,163.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,-0.5,-0.5,-0.5
+131,2017,7504,1453,Marios Oikonomou,a,DC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2272,2017,7596,1453,Marios Oikonomou,a,DC,57.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2895,2017,7626,1453,Marios Oikonomou,h,Sub,121.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

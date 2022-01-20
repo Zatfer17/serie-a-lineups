@@ -1,6 +1,3 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-2464,2014,5107,3821,Rolando Mandragora,h,MC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-6246,2014,4941,3821,Rolando Mandragora,h,Sub,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8340,2014,4850,3821,Rolando Mandragora,h,Sub,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8512,2014,4856,3821,Rolando Mandragora,a,MC,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-9885,2014,4803,3821,Rolando Mandragora,a,Sub,123.0,0.0,0.0,0.0,0.0,0.0,0.0,0.088973768055439,0.0,0.088973768055439,0.0
+2084,2014,5107,3821,Rolando Mandragora,h,MC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7149,2014,4856,3821,Rolando Mandragora,a,MC,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

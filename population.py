@@ -133,7 +133,7 @@ async def get_players(seasons):
                     )
                 for team in teams:
                     for player in teams[team]:
-                        if teams[team][player]['time'] >= 15 and teams[team][player]['position'] != 'GK':
+                        if int(teams[team][player]['time']) >= 15 and teams[team][player]['position'] != 'GK':
                             data.append([
                                 season,
                                 match_id,
@@ -149,7 +149,7 @@ async def get_players(seasons):
                                 float(teams[team][player]['red_card']),
                                 float(teams[team][player]['xG']),
                                 float(teams[team][player]['xA']),
-                                3*float(teams[team][player]['goals'])+float(teams[team][player]['assists'])-0.5*float(teams[team][player]['yellow_card'])-0.5*float(teams[team][player]['red_card']),
+                                3*float(teams[team][player]['goals'])+float(teams[team][player]['assists']),
                                 3*float(teams[team][player]['xG'])+float(teams[team][player]['xA'])-0.5*float(teams[team][player]['yellow_card'])-0.5*float(teams[team][player]['red_card']),
                             ])
             df = pd.DataFrame(data=data, columns=[
@@ -325,7 +325,7 @@ def create_dataset():
     df = matches.merge(players, on=['season', 'matchId'], suffixes=('', 'Player'))
     df = df[((df.homeOrAway == 'h') & (df.team == df.homeTeam)) | ((df.homeOrAway == 'a') & (df.team == df.awayTeam))]
     df = df.merge(labels, on=['season', 'matchId', 'player'])
-    df = df.merge(odds, on=['season', 'homeTeam', 'awayTeam'])
+    #df = df.merge(odds, on=['season', 'homeTeam', 'awayTeam'])
     df.to_csv('resources/dataset.csv')
 
 def get_data(seasons):

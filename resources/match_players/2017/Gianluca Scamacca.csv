@@ -1,4 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-2902,2017,7603,6253,Gianluca Scamacca,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3638,2017,7637,6253,Gianluca Scamacca,h,Sub,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5865,2017,7709,6253,Gianluca Scamacca,h,Sub,20.0,0.0,0.0,2.0,0.0,0.0,0.0222408175468444,0.393435537815094,0.0,0.4601579904556274,0.0
+3056,2017,7637,6253,Gianluca Scamacca,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

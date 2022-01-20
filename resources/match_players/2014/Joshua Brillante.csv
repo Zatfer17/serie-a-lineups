@@ -1,4 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-46,2014,5150,3811,Joshua Brillante,a,MR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1632,2014,5077,3811,Joshua Brillante,h,Sub,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5943,2014,4930,3811,Joshua Brillante,h,Sub,38.0,0.0,0.0,2.0,0.0,0.0,0.9787847995758056,0.0,0.0,2.936354398727417,0.0
+40,2014,5150,3811,Joshua Brillante,a,MR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

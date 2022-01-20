@@ -1,4 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-5785,2021,16942,4984,Wladimiro Falcone,a,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-6131,2021,16961,4984,Wladimiro Falcone,a,Sub,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,-0.5
-6339,2021,16973,4984,Wladimiro Falcone,h,GK,131.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.5,-0.5,0.0
+4963,2021,16961,4984,Wladimiro Falcone,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

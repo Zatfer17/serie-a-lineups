@@ -1,5 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-195,2014,5156,1479,Alberto Pomini,h,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3930,2014,5010,1479,Alberto Pomini,a,Sub,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-4238,2014,5022,1479,Alberto Pomini,h,GK,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-10474,2014,4825,1479,Alberto Pomini,h,GK,202.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3308,2014,5010,1479,Alberto Pomini,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

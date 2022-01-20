@@ -1,4 +1,2 @@
 ,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-289,2017,7509,6204,Ricardo Centurión,h,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1070,2017,7532,6204,Ricardo Centurión,h,AMC,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3374,2017,7620,6204,Ricardo Centurión,a,Sub,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+892,2017,7532,6204,Ricardo Centurión,h,AMC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
