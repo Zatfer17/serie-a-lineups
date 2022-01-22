@@ -78,7 +78,6 @@ def get_scoring_set(league_name):
     
     league = pd.read_csv('data/leghe_fantacalcio/leagues/{}.csv'.format(league_name))
     league = league[league['role'] != 'P']
-    league = league.reset_index(drop=True)
     league = league[['fanta_team', 'role', 'team', 'player']]
     
     fixtures   = None
@@ -102,7 +101,12 @@ def get_scoring_set(league_name):
         
     player_ids = pd.DataFrame(data=player_ids, columns=['player_id'])
     positions  = pd.DataFrame(data=positions, columns=['position'])
-    
+
+    league     = league.reset_index(drop=True)
+    player_ids = player_ids.reset_index(drop=True)
+    fixtures   = fixtures.reset_index(drop=True)
+    positions  = positions.reset_index(drop=True)
+
     league = league.join([player_ids, fixtures, positions])
     league = league.dropna()
     
