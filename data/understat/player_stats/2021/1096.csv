@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Torino,Empoli,2,2,2021-12-02,16905,2021,499386,0,0,0,0,0,0,0
+0,1,0.02274763397872448,4,Sub,Spezia,Torino,1,0,2021-11-06,16873,2021,493838,0,0,0,0,0.02274763397872448,0,0
+0,0,0,78,DC,Fiorentina,Torino,2,1,2021-08-28,16770,2021,479254,0,0,0,0,0,0,0
+0,0,0,15,Sub,Torino,Atalanta,1,2,2021-08-21,16758,2021,477360,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Crotone,Chievo,2,0,2016-10-30,3295,2016,166699,0,0,0,0,0,0,0
+0,0,0,1,Sub,Pescara,Chievo,0,2,2016-10-01,990,2016,164689,0,0,0,0,0,0,0
+0,0,0,3,Sub,Chievo,Inter,2,0,2016-08-21,938,2016,161076,0,0,0,0,0,0.01651964709162712,0.01651964709162712

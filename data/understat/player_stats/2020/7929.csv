@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,46,DC,Verona,Benevento,3,1,2020-11-02,15485,2020,425689,0,0,0,0,0,0.6403994560241699,0.6403994560241699
+0,1,0.07050362229347229,90,DC,Juventus,Verona,1,1,2020-10-25,15471,2020,423851,0,0,0,0,0.07050362229347229,0.07050362229347229,0
+0,0,0,68,DC,Verona,Genoa,0,0,2020-10-19,15465,2020,422373,0,0,0,0,0,0,0
+0,0,0,18,DC,Verona,Roma,0,0,2020-09-19,14117,2020,415991,0,0,0,0,0,0,0

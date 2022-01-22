@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,14,Sub,Sassuolo,Roma,0,1,2018-05-20,7876,2017,241284,0,0,0,0,0,0,0
+0,0,0,71,DC,Cagliari,Roma,0,1,2018-05-06,7856,2017,238503,0,0,0,0,0,0.173709899187088,0.173709899187088

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.3440876603126526,71,FW,Roma,Genoa,3,2,2017-05-28,3714,2016,171413,0,0,0,1,0.3440876603126526,0.3440876603126526,0
+0,0,0,2,Sub,Genoa,Chievo,1,2,2017-04-30,3672,2016,169114,0,0,0,0,0,0,0
+0,0,0,2,Sub,Torino,Genoa,1,0,2016-12-22,3102,2016,170775,0,0,0,0,0,0,0

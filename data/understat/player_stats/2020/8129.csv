@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,DL,Roma,Atalanta,1,1,2021-04-22,15736,2020,464765,0,0,0,0,0,0.041447654366493225,0.041447654366493225
+0,0,0,18,Sub,Roma,Torino,3,1,2020-12-17,15542,2020,435599,0,0,0,0,0,0,0
+0,0,0,1,Sub,Bologna,Roma,1,5,2020-12-13,15527,2020,433754,0,0,0,0,0,0,0

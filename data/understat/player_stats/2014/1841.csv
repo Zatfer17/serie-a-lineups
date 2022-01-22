@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Sampdoria,Verona,1,1,2015-04-29,4879,2014,56006,0,0,0,0,0,0,0
+0,0,0,90,GK,Roma,Verona,2,0,2014-09-27,5139,2014,47793,0,0,0,0,0,0.10227084159851074,0.10227084159851074
+0,0,0,90,GK,Verona,Genoa,2,2,2014-09-24,5131,2014,47415,0,0,0,0,0,0.017994465306401253,0.017994465306401253

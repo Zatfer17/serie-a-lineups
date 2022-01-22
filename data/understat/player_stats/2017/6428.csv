@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Juventus,Bologna,3,1,2018-05-05,7851,2017,237809,0,0,0,0,0,0.053309228271245956,0.053309228271245956
+0,0,0,3,Sub,Bologna,AC Milan,1,2,2018-04-29,7844,2017,236419,0,0,0,0,0,0,0
+0,0,0,26,Sub,Sampdoria,Bologna,1,0,2018-04-18,7820,2017,233567,0,0,0,0,0,0.05315098166465759,0.05315098166465759

@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,AC Milan,Roma,1,3,2016-05-14,923,2015,114281,0,0,0,0,0,0.14778687059879303,0.14778687059879303
+0,0,0,1,Sub,AC Milan,Carpi,0,0,2016-04-21,890,2015,111919,0,0,0,0,0,0.10996835678815842,0.10996835678815842

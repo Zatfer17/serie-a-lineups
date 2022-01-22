@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Sassuolo,Genoa,3,1,2015-05-31,4825,2014,55809,0,0,0,0,0,0,0
+0,0,0,64,DC,Sassuolo,Lazio,0,3,2015-03-01,4885,2014,53038,0,0,0,0,0,0.48159801959991455,0.48159801959991455
+0,0,0,68,Sub,Napoli,Sassuolo,2,0,2015-02-23,4953,2014,53535,0,0,0,0,0,0.04741166532039642,0.04741166532039642

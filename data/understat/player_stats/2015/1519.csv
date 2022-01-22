@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,73,GK,Sassuolo,Inter,3,1,2016-05-14,922,2015,114262,0,0,0,0,0,0.027729220688343048,0.027729220688343048
+0,0,0,90,GK,Inter,Palermo,3,1,2016-03-06,830,2015,108700,0,0,0,0,0,0.12247274816036224,0.12247274816036224

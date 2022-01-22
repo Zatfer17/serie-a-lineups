@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Chievo,Bologna,0,0,2016-05-15,927,2015,114123,0.023020867258310318,0,2,0,0,0.18789464235305786,0.16487376391887665
+0,0,0,5,Sub,Empoli,Bologna,0,0,2016-05-01,905,2015,113019,0,0,0,0,0,0,0
+0,0,0,6,Sub,Roma,Bologna,1,1,2016-04-11,870,2015,110793,0,0,0,0,0,0,0
+0,0,0,40,DR,Carpi,Bologna,1,2,2015-10-24,632,2015,108239,0,0,0,0,0,0,0

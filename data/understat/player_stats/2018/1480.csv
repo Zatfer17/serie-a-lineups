@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Atalanta,Sassuolo,3,1,2019-05-26,9947,2018,335211,0,0,0,0,0,0.34691137075424194,0.34691137075424194
+0,0,0,90,GK,Sassuolo,Napoli,1,1,2019-03-10,9846,2018,315371,0,0,0,0,0,0.02068137377500534,0.02068137377500534
+0,0,0,20,Sub,AC Milan,Sassuolo,1,0,2019-03-02,9835,2018,307209,0,0,0,0,0,0,0

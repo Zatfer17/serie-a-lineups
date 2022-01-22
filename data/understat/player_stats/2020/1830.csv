@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Inter,Roma,3,1,2021-05-12,15782,2020,470348,0,0,0,0,0,0.2923927307128906,0.2923927307128906
+0,0,0,44,Sub,Inter,Sampdoria,5,1,2021-05-08,15773,2020,468791,0,0,0,0,0,0.12286412715911865,0.12286412715911865

@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,34,Sub,Lecce,Parma Calcio 1913,3,4,2020-08-02,13468,2019,412299,0,0,0,0,0,0.8514771461486816,0.8514771461486816
+0,0,0,10,Sub,Parma Calcio 1913,Inter,1,2,2020-06-28,13365,2019,403874,0,0,0,0,0,0,0
+0,0,0,16,Sub,Sampdoria,Sassuolo,0,0,2020-01-26,13295,2019,390651,0,0,0,0,0,0,0
+0,0,0,90,DC,Sampdoria,Brescia,5,1,2020-01-12,13276,2019,388808,0,0,0,0,0,0.03118962235748768,0.03118962235748768
+0,0,0,68,DC,Napoli,Sampdoria,2,0,2019-09-14,13114,2019,349221,0.14855612814426422,0,1,0,0,0,0

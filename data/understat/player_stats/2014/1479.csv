@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Sassuolo,Genoa,3,1,2015-05-31,4825,2014,55797,0,0,0,0,0,0.09824502468109131,0.09824502468109131
+0,0,0,90,GK,Sassuolo,Cesena,1,1,2014-12-20,5022,2014,50982,0,0,0,0,0,0,0
+0,0,0,22,Sub,Palermo,Sassuolo,2,1,2014-12-13,5010,2014,50619,0,0,0,0,0,0.03236998990178108,0.03236998990178108
+0,0,0,90,GK,Sassuolo,Cagliari,1,1,2014-08-31,5156,2014,46690,0,0,0,0,0,0.14077602326869965,0.14077602326869965

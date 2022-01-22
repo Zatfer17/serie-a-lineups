@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Udinese,Bologna,1,0,2018-05-20,7871,2017,241103,0,0,0,0,0,0.08521969616413116,0.08521969616413116
+0,0,0,90,GK,Bologna,Crotone,2,3,2017-11-04,7610,2017,194787,0,0,0,0,0,0,0
+0,0,0,90,GK,Roma,Bologna,1,0,2017-10-28,7604,2017,194634,0,0,0,0,0,0,0
+0,0,0,90,GK,Sassuolo,Bologna,0,1,2017-09-24,7557,2017,193323,0,0,0,0,0,0.13635630905628204,0.13635630905628204

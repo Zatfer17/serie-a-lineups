@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fiorentina,Udinese,3,2,2020-10-25,15469,2020,423734,0,0,0,0,0,0,0
+0,0,0,90,GK,Udinese,Parma Calcio 1913,3,2,2020-10-18,15463,2020,422132,0,0,0,0,0,0.07753372192382812,0.07753372192382812

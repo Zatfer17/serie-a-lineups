@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Atalanta,Chievo,1,0,2017-05-27,3712,2016,171348,0,0,0,0,0,0,0
+0,0,0,90,GK,Cagliari,Chievo,4,0,2017-04-15,3654,2016,168057,0,0,0,0,0,0,0
+0,0,0,90,GK,Juventus,Chievo,2,0,2017-04-08,3642,2016,167441,0,0,0,0,0,0.019685819745063782,0.019685819745063782
+0,0,0,90,GK,Chievo,Crotone,1,2,2017-04-02,3635,2016,166951,0,0,0,0,0,0,0

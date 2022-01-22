@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,Genoa,Torino,0,1,2019-11-30,13222,2019,366356,0,0,0,0,0,0,0
+0,0,0,22,Sub,Juventus,Genoa,2,1,2019-10-30,13181,2019,360861,0,0,0,0,0,0,0
+0,3,0.17598481476306915,68,FW,Genoa,Brescia,3,1,2019-10-26,13172,2019,359816,0,0,0,0,0.17598481476306915,0.19805996119976044,0.022075148299336433

@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,72,DC,Empoli,Udinese,1,1,2016-02-03,779,2015,106363,0,0,0,0,0,0.017283447086811066,0.017283447086811066
+0,1,0.1273530274629593,90,DC,Napoli,Empoli,5,1,2016-01-31,767,2015,105175,0,0,0,0,0.1273530274629593,0,0

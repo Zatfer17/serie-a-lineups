@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,78,MC,Genoa,Inter,0,3,2020-07-25,13441,2019,411144,0,0,0,0,0,0.06875669956207275,0.06875669956207275
+0,1,0.0193169042468071,28,Sub,Inter,Genoa,4,0,2019-12-21,13251,2019,371615,0,0,0,0,0.0193169042468071,0.012884258292615414,0.012884258292615414

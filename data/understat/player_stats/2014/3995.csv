@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.02911817841231823,23,Sub,Parma,Fiorentina,1,0,2015-01-06,4961,2014,51564,0,0,0,0,0.02911817841231823,0.02911817841231823,0
+0,0,0,7,Sub,Fiorentina,Empoli,1,1,2014-12-21,5026,2014,50745,0,0,0,0,0,0,0
+1,1,0.6641563773155212,4,Sub,Cesena,Fiorentina,1,4,2014-12-14,5016,2014,50424,0,0,0,1,0.6641563773155212,0.6641563773155212,0

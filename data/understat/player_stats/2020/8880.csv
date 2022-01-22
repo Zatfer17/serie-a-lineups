@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Fiorentina,Cagliari,1,0,2021-01-10,15587,2020,441568,0,0,0,0,0,0,0
+0,0,0,32,Sub,Cagliari,Napoli,1,4,2021-01-03,15568,2020,439442,0,0,0,0,0,0,0
+0,0,0,5,Sub,Parma Calcio 1913,Cagliari,0,0,2020-12-16,15541,2020,435086,0,0,0,0,0,0,0
+0,0,0,1,Sub,Verona,Cagliari,1,1,2020-12-06,15525,2020,431716,0,0,0,0,0,0,0
+0,0,0,1,Sub,Cagliari,Sampdoria,2,0,2020-11-07,15489,2020,426132,0,0,0,0,0,0,0
+0,1,0.026270439848303795,24,Sub,Atalanta,Cagliari,5,2,2020-10-04,15450,2020,419922,0,0,0,0,0.026270439848303795,0.026270439848303795,0

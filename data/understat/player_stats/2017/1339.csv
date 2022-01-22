@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Bologna,Crotone,2,3,2017-11-04,7610,2017,194812,0,0,0,0,0,0,0
+0,0,0,61,MC,Sampdoria,Crotone,5,0,2017-10-21,7585,2017,194108,0,0,0,0,0,0.07906472682952881,0.07906472682952881
+0,0,0,1,Sub,SPAL 2013,Crotone,1,1,2017-10-01,7566,2017,193585,0,0,0,0,0,0,0
+0,0,0,90,MC,Atalanta,Crotone,5,1,2017-09-20,7539,2017,192827,0,0,0,0,0,0,0
+0,0,0,15,Sub,Crotone,AC Milan,0,3,2017-08-20,7508,2017,191782,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Verona,Bologna,2,2,2021-05-17,15787,2020,472275,0,0,0,0,0,0,0
+0,0,0,90,GK,Bologna,Genoa,0,2,2021-05-12,15778,2020,470224,0,0,0,0,0,0,0
+0,0,0,90,GK,Bologna,Inter,0,1,2021-04-03,15708,2020,459912,0,0,0,0,0,0,0
+0,0,0,90,GK,Bologna,Roma,1,5,2020-12-13,15527,2020,433726,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,GK,Juventus,Brescia,2,0,2020-02-16,13322,2019,394097,0,0,0,0,0,0,0
+0,0,0,90,GK,Brescia,Sassuolo,0,2,2019-12-18,13151,2019,371092,0,0,0,0,0,0,0
+0,0,0,90,GK,Brescia,Lecce,3,0,2019-12-14,13240,2019,369574,0,0,0,0,0,0,0
+0,0,0,90,GK,Brescia,Inter,1,2,2019-10-29,13179,2019,360611,0,0,0,0,0,0.24211768805980682,0.24211768805980682

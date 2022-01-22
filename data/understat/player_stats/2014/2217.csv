@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Roma,Parma,0,0,2015-02-15,4943,2014,53022,0.08071410655975342,0,1,0,0,0.08071410655975342,0
+0,0,0,28,Sub,Cagliari,Roma,1,2,2015-02-08,4931,2014,52534,0,0,0,0,0,0.091333769261837,0.091333769261837

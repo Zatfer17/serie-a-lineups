@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.014912214130163193,85,DL,Chievo,Sampdoria,0,0,2019-05-19,9937,2018,334165,0.3241705000400543,0,2,0,0.014912214130163193,0.24781198799610138,0
+0,0,0,90,DL,Sampdoria,Frosinone,0,1,2019-02-10,9804,2018,306490,0,0,0,0,0,0.014752102084457874,0.014752102084457874
+0,0,0,12,Sub,Sampdoria,Udinese,4,0,2019-01-26,9779,2018,305804,0,0,0,0,0,0,0

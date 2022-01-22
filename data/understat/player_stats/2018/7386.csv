@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,50,Sub,Atalanta,Empoli,0,0,2019-04-15,9887,2018,325286,0,0,0,0,0,0,0
+0,0,0,11,Sub,Roma,Empoli,2,1,2019-03-11,9844,2018,315674,0,0,0,0,0,0,0
+0,0,0,1,Sub,Empoli,Parma Calcio 1913,3,3,2019-03-02,9832,2018,307168,0.0821525901556015,0,1,0,0,0,0
+0,0,0,38,Sub,Lazio,Empoli,1,0,2019-02-07,9801,2018,306345,0,0,0,0,0,0,0
+0,0,0,30,Sub,Empoli,Chievo,2,2,2019-02-02,9790,2018,306055,0,0,0,0,0,0,0

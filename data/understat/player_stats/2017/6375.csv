@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Juventus,Verona,2,1,2018-05-19,7874,2017,240502,0.0431683324277401,0,1,0,0,0.17675283551216125,0.13358449935913086
+0,0,0,31,Sub,Verona,Udinese,0,1,2018-05-13,7868,2017,240019,0,0,0,0,0,0,0
+0,0,0,90,MC,AC Milan,Verona,4,1,2018-05-05,7854,2017,237699,0,0,0,0,0,0.04062272235751152,0.04062272235751152
+0,0,0,90,MC,Genoa,Verona,3,1,2018-04-23,7833,2017,235398,0,0,0,0,0,0,0
+0,0,0,90,MC,Verona,Sassuolo,0,1,2018-04-18,7827,2017,233658,0,0,0,0,0,0,0

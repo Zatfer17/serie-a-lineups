@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Spezia,Bologna,0,1,2021-11-28,16893,2021,497925,0,0,0,0,0,0,0
+0,0,0,6,Sub,Sampdoria,Bologna,1,2,2021-11-07,16872,2021,494555,0,0,0,0,0,0,0
+0,0,0,63,DMR,Napoli,Bologna,3,0,2021-10-28,16851,2021,491746,0,0,0,0,0,0,0

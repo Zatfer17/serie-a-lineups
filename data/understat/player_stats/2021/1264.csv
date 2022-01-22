@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Roma,Cagliari,1,0,2022-01-16,16971,2021,508718,0,0,0,0,0,0.44826897978782654,0.44826897978782654
+0,0,0,1,Sub,Genoa,Sassuolo,2,2,2021-10-17,16828,2021,488720,0,0,0,0,0,0,0

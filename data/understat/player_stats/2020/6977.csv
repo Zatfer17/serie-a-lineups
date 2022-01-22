@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crotone,Fiorentina,0,0,2021-05-22,15797,2020,473141,0,0,0,0,0,0.05368753522634506,0.05368753522634506
+0,0,0,90,GK,Fiorentina,Napoli,0,2,2021-05-16,15792,2020,471087,0,0,0,0,0,0,0
+0,0,0,43,Sub,Cagliari,Fiorentina,0,0,2021-05-12,15777,2020,470098,0,0,0,0,0,0,0
+0,0,0,47,Sub,Fiorentina,AC Milan,2,3,2021-03-21,15701,2020,458863,0,0,0,0,0,0.034385327249765396,0.034385327249765396

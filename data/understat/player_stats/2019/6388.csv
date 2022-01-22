@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,AC Milan,Cagliari,3,0,2020-08-01,13464,2019,412078,0.026122257113456726,0,1,0,0,0,0
+0,0,0,58,MC,Cagliari,Udinese,0,1,2020-07-26,13447,2019,411625,0.04506538063287735,0,2,0,0,0.04506538063287735,0.02795049361884594
+0,0,0,42,Sub,Cagliari,Sassuolo,1,1,2020-07-18,13419,2019,409704,0,0,0,0,0,0,0

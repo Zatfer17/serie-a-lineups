@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Inter,Juventus,1,2,2015-05-16,4799,2014,55643,0,0,0,0,0,0,0
+0,0,0,1,Sub,Udinese,Inter,1,2,2015-04-28,4871,2014,56130,0,0,0,0,0,0,0
+0,0,0,87,MC,Inter,Roma,2,1,2015-04-25,4862,2014,55218,0,0,0,0,0,0.034279026091098785,0.034279026091098785
+0,0,0,68,MC,Inter,AC Milan,0,0,2015-04-19,4859,2014,54884,0,0,0,0,0,0.14539101719856262,0.14539101719856262
+0,0,0,9,Sub,Verona,Inter,0,3,2015-04-11,4842,2014,54291,0,0,0,0,0,0,0

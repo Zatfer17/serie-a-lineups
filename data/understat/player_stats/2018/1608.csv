@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Torino,Empoli,3,0,2018-12-26,9756,2018,282318,0,0,0,0,0,0,0
+0,0,0,90,GK,Sassuolo,Torino,1,1,2018-12-22,9741,2018,281919,0,0,0,0,0,0.10388368368148804,0.10388368368148804
+0,0,0,71,Sub,Torino,Juventus,0,1,2018-12-15,9727,2018,281559,0,0,0,0,0,0,0

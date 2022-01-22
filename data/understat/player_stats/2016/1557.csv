@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,61,MC,Cagliari,Atalanta,3,0,2016-09-18,966,2016,162699,0.008031491190195084,0,1,0,0,0.12425830215215683,0.11622681468725204
+0,0,0,41,MC,Sampdoria,Atalanta,2,1,2016-08-28,944,2016,161754,0,0,0,0,0,0.10030211508274078,0.10030211508274078

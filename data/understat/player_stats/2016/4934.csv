@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,ML,Genoa,Inter,1,0,2017-05-07,3687,2016,169807,0.0648280456662178,0,2,0,0,0.0648280456662178,0
+0,1,0.008838376961648464,42,Sub,Juventus,Genoa,4,0,2017-04-23,3666,2016,168685,0,0,0,0,0.008838376961648464,0.008838376961648464,0
+0,0,0,18,Sub,Genoa,Atalanta,0,5,2017-04-02,3632,2016,166879,0,0,0,0,0,0,0

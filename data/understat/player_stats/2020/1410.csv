@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Spezia,Roma,2,2,2021-05-23,15803,2020,473656,0,0,0,0,0,0.12285789102315903,0.12285789102315903
+0,0,0,90,GK,AC Milan,Spezia,3,0,2020-10-04,15454,2020,420527,0,0,0,0,0,0,0
+0,0,0,25,Sub,Udinese,Spezia,0,2,2020-09-30,14134,2020,418841,0.30844756960868835,1,1,0,0,0.30844756960868835,0

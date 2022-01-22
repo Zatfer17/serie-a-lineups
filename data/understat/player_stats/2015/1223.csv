@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,DC,Juventus,Sampdoria,5,0,2016-05-14,921,2015,114321,0,0,0,0,0,0,0
+0,0,0,90,DC,Palermo,Sampdoria,2,0,2016-05-01,904,2015,113203,0,0,0,0,0,0.08939682692289352,0.08939682692289352
+0,0,0,1,Sub,Sampdoria,Lazio,2,1,2016-04-24,894,2015,112533,0,0,0,0,0,0,0

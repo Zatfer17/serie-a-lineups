@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,14,AMC,Palermo,Torino,1,4,2016-10-17,1009,2016,165119,0,0,0,0,0,0,0
+0,1,0.029035763815045357,6,Sub,Palermo,Napoli,0,3,2016-09-10,952,2016,162331,0,0,0,0,0.029035763815045357,0.029035763815045357,0
+0,0,0,70,FWR,Palermo,Sassuolo,0,1,2016-08-21,934,2016,161213,0,0,0,0,0,0,0

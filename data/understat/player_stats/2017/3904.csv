@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Bologna,Verona,2,0,2018-04-15,7811,2017,232751,0,0,0,0,0,0.10495968908071518,0.10495968908071518
+0,0,0,64,Sub,Benevento,Verona,3,0,2018-04-04,7763,2017,228248,0,0,0,0,0,0,0
+0,0,0,15,Sub,Verona,Atalanta,0,5,2018-03-18,7779,2017,224569,0,0,0,0,0,0,0
+0,0,0,86,ML,Verona,Chievo,1,0,2018-03-10,7771,2017,222824,0,0,0,0,0,0,0
+0,0,0,6,Sub,Sampdoria,Verona,2,0,2018-02-11,7734,2017,217481,0,0,0,0,0,0,0
+0,0,0,6,Sub,Napoli,Verona,2,0,2018-01-06,7692,2017,206875,0,0,0,0,0,0,0

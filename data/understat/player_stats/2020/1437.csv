@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Genoa,Bologna,2,0,2021-01-09,15588,2020,440890,0,0,0,0,0,0,0
+0,0,0,90,GK,Bologna,Udinese,2,2,2021-01-06,15577,2020,440027,0,0,0,0,0,0,0
+0,0,0,90,GK,Fiorentina,Bologna,0,0,2021-01-03,15569,2020,439476,0,0,0,0,0,0.018912578001618385,0.018912578001618385
+0,0,0,90,GK,Bologna,Atalanta,2,2,2020-12-23,15556,2020,437772,0,0,0,0,0,0,0
+0,0,0,90,GK,Torino,Bologna,1,1,2020-12-20,15555,2020,436372,0,0,0,0,0,0.04929019510746002,0.04929019510746002
+0,0,0,90,GK,Spezia,Bologna,2,2,2020-12-16,15543,2020,435105,0,0,0,0,0,0,0

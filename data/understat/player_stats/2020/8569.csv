@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Sampdoria,Parma Calcio 1913,3,0,2021-05-22,15802,2020,473217,0,0,0,0,0,0,0
+0,0,0,57,Sub,Parma Calcio 1913,Lazio,0,2,2021-01-10,15591,2020,441458,0,0,0,0,0,0,0
+0,0,0,90,DC,Inter,Parma Calcio 1913,2,2,2020-10-31,15478,2020,424628,0,0,0,0,0,0,0

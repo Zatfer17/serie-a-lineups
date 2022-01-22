@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,48,FW,Fiorentina,Torino,3,0,2017-10-25,7593,2017,194336,0,0,0,0,0,0,0
+0,2,0.37209010124206543,90,FW,Torino,Roma,0,1,2017-10-22,7587,2017,194154,0,0,0,0,0.37209010124206543,0.37209010124206543,0
+0,1,0.6828792095184326,90,FW,Crotone,Torino,2,2,2017-10-15,7571,2017,193724,0,0,0,0,0.6828792095184326,0,0

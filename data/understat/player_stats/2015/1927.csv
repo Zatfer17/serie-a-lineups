@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.08493814617395401,90,DC,Genoa,Atalanta,1,2,2016-05-15,926,2015,114096,0,0,0,0,0.08493814617395401,0,0
+0,0,0,90,DC,Atalanta,Udinese,1,1,2016-05-08,917,2015,113776,0,0,0,0,0,0.1886828988790512,0.1886828988790512
+0,0,0,90,DC,Napoli,Atalanta,2,1,2016-05-02,910,2015,112980,0,0,0,0,0,0,0

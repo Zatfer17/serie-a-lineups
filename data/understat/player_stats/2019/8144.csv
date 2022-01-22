@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,15,Sub,Inter,Genoa,4,0,2019-12-21,13251,2019,371616,0,0,0,0,0,0,0
+0,0,0,1,Sub,Genoa,Sampdoria,0,1,2019-12-14,13243,2019,370165,0,0,0,0,0,0,0
+0,1,0.08379452675580978,14,Sub,SPAL 2013,Genoa,1,1,2019-11-25,13217,2019,365792,0,0,0,0,0.08379452675580978,0.08379452675580978,0
+0,0,0,9,Sub,Napoli,Genoa,0,0,2019-11-09,13204,2019,363516,0,0,0,0,0,0,0

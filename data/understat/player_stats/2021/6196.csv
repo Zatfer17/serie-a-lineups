@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,53,DMC,Bologna,Napoli,0,2,2022-01-17,16967,2021,508792,0,0,0,0,0,0,0
+0,0,0,1,Sub,Cagliari,Bologna,2,1,2022-01-11,16956,2021,507728,0,0,0,0,0,0,0
+0,0,0,5,Sub,Bologna,Juventus,0,2,2021-12-18,16927,2021,503763,0,0,0,0,0,0,0
+0,1,0.01861056312918663,23,Sub,Torino,Bologna,2,1,2021-12-12,16923,2021,502089,0,0,0,0,0.01861056312918663,0.01861056312918663,0
+0,0,0,3,Sub,Bologna,Venezia,0,1,2021-11-21,16877,2021,496336,0,0,0,0,0,0,0

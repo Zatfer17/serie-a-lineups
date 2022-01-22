@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crotone,Genoa,0,1,2017-11-19,7620,2017,195063,0,0,0,0,0,0,0
+0,0,0,32,AMC,Genoa,Lazio,2,3,2017-09-17,7532,2017,192619,0,0,0,0,0,0,0
+0,0,0,13,Sub,Genoa,Juventus,2,4,2017-08-26,7509,2017,192118,0,0,0,0,0,0.06458891183137894,0.06458891183137894

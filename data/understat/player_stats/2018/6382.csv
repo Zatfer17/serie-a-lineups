@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Lazio,Atalanta,1,3,2019-05-05,9923,2018,330936,0,0,0,0,0,0,0
+0,1,0.03209921717643738,23,Sub,Lazio,Parma Calcio 1913,4,1,2019-03-17,9851,2018,317156,0.04347188398241997,0,1,0,0.03209921717643738,0.1533094346523285,0.07773832976818085
+0,0,0,5,Sub,Lazio,Empoli,1,0,2019-02-07,9801,2018,306331,0,0,0,0,0,0,0
+0,0,0,1,Sub,Lazio,Juventus,1,2,2019-01-27,9786,2018,305999,0,0,0,0,0,0,0

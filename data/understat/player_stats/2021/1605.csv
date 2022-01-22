@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Cagliari,Atalanta,1,2,2021-11-06,16866,2021,494268,0,0,0,0,0,0,0
+0,0,0,21,Sub,Bologna,Cagliari,2,0,2021-11-01,16857,2021,493446,0,0,0,0,0,0.03643157333135605,0.03643157333135605
+0,1,0.031611714512109756,23,Sub,Cagliari,Genoa,2,3,2021-09-12,16778,2021,481030,0,0,0,0,0.031611714512109756,0.031611714512109756,0
+0,0,0,14,Sub,AC Milan,Cagliari,4,1,2021-08-29,16774,2021,479924,0,0,0,0,0,0,0

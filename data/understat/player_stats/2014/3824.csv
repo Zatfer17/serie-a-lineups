@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,67,DL,Cesena,Lazio,2,1,2015-02-01,4921,2014,52248,0,0,0,0,0,0.04374925047159195,0.04374925047159195
+0,0,0,5,Sub,Lazio,Napoli,0,1,2015-01-18,4979,2014,51355,0,0,0,0,0,0,0
+0,0,0,90,DR,Lazio,Cagliari,4,2,2014-11-03,5039,2014,49091,0,0,0,0,0,0.06188962608575821,0.06188962608575821

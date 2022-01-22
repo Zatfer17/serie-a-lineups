@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Palermo,Verona,3,2,2016-05-15,930,2015,114245,0,0,0,0,0,0,0
+0,0,0,11,Sub,Verona,AC Milan,2,1,2016-04-25,899,2015,112561,0,0,0,0,0,0.1318216174840927,0.1318216174840927
+0,0,0,69,MC,Verona,Napoli,0,2,2015-11-22,673,2015,110606,0,0,0,0,0,0,0
+0,0,0,6,Sub,Verona,Fiorentina,0,2,2015-10-28,643,2015,108880,0,0,0,0,0,0,0

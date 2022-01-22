@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,31,Sub,Udinese,Atalanta,1,1,2017-05-07,3682,2016,169687,0,0,0,0,0,0,0
+0,0,0,29,Sub,Inter,Atalanta,7,1,2017-03-12,3612,2016,165779,0,0,0,0,0,0,0
+0,1,0.07339900732040405,90,DC,Atalanta,Sampdoria,1,0,2017-01-22,3548,2016,162014,0,0,0,0,0.07339900732040405,0.04957088455557823,0.04957088455557823

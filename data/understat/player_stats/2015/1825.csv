@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Roma,Atalanta,0,2,2015-11-29,683,2015,111213,0,0,0,0,0,0,0
+0,0,0,90,GK,Roma,Carpi,5,1,2015-09-26,601,2015,106862,0,0,0,0,0,0,0
+0,0,0,90,GK,Sampdoria,Roma,2,1,2015-09-23,594,2015,105425,0,0,0,0,0,0.07642783969640732,0.07642783969640732
+0,0,0,90,GK,Roma,Sassuolo,2,2,2015-09-20,585,2015,106025,0,0,0,0,0,0.06338052451610565,0.06338052451610565

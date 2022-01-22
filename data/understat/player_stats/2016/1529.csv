@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,DC,Roma,Pescara,3,2,2016-11-27,2773,2016,168367,0,0,0,0,0,0.0982217863202095,0.0982217863202095
+0,0,0,43,Sub,Juventus,Pescara,3,0,2016-11-19,2758,2016,167873,0,0,0,0,0,0,0
+0,0,0,56,DR,Pescara,Sampdoria,1,1,2016-10-15,1001,2016,165140,0.11543227732181549,0,1,0,0,0.11543227732181549,0

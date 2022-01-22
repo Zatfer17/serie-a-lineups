@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,65,GK,Napoli,Verona,1,1,2021-05-23,15805,2020,473702,0,0,0,0,0,0.07431504875421524,0.07431504875421524
+0,0,0,90,GK,Verona,Bologna,2,2,2021-05-17,15787,2020,472259,0,0,0,0,0,0,0
+0,0,0,90,GK,Crotone,Verona,2,1,2021-05-13,15785,2020,470566,0,0,0,0,0,0.021291092038154602,0.021291092038154602
+0,0,0,90,GK,Verona,Torino,1,1,2021-05-09,15775,2020,469324,0,0,0,0,0,0,0

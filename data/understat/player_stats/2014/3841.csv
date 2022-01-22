@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Palermo,Cesena,2,1,2014-10-19,5082,2014,48351,0,0,0,0,0,0,0
+0,0,0,32,Sub,Empoli,Palermo,3,0,2014-10-05,5071,2014,47917,0,0,0,0,0,0,0
+0,1,0.015669923275709152,12,Sub,Palermo,Lazio,0,4,2014-09-29,5148,2014,47763,0,0,0,0,0.015669923275709152,0,0
+0,0,0,4,Sub,Verona,Palermo,2,1,2014-09-15,5118,2014,46882,0,0,0,0,0,0,0

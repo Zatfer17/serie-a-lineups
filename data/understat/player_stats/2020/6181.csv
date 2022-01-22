@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,74,MC,Inter,Spezia,2,1,2020-12-20,15550,2020,436559,0,0,0,0,0,0.03587280958890915,0.03587280958890915
+0,0,0,6,Sub,Benevento,Spezia,0,3,2020-11-07,15487,2020,426454,0,0,0,0,0,0,0
+0,0,0,10,Sub,AC Milan,Spezia,3,0,2020-10-04,15454,2020,420539,0,0,0,0,0,0,0
+0,1,0.09990523755550385,11,Sub,Spezia,Sassuolo,1,4,2020-09-27,14127,2020,417800,0,0,0,0,0.09990523755550385,0.09990523755550385,0

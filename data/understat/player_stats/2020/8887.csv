@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,44,Sub,Torino,Benevento,1,1,2021-05-23,15796,2020,473592,0,0,0,0,0,0.020041843876242638,0.020041843876242638
+0,0,0,30,Sub,Inter,Benevento,4,0,2021-01-30,15624,2020,445911,0,0,0,0,0,0,0
+0,0,0,44,Sub,Benevento,Atalanta,1,4,2021-01-09,15586,2020,440709,0.370678186416626,1,1,0,0,0.370678186416626,0

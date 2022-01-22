@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,48,Sub,Sassuolo,Roma,0,2,2016-02-02,771,2015,106332,0.06844527274370193,0,2,0,0,0.06844527274370193,0
+0,0,0,8,Sub,Chievo,Roma,3,3,2016-01-06,722,2015,113269,0,0,0,0,0,0,0
+0,0,0,5,Sub,Napoli,Roma,0,0,2015-12-13,707,2015,112324,0,0,0,0,0,0,0
+0,0,0,20,Sub,Roma,Udinese,3,1,2015-10-28,646,2015,108964,0,0,0,0,0,0,0
+0,0,0,1,Sub,Fiorentina,Roma,1,2,2015-10-25,639,2015,108335,0,0,0,0,0,0,0
+0,0,0,6,Sub,Palermo,Roma,2,4,2015-10-04,614,2015,107333,0,0,0,0,0,0,0

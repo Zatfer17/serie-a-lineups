@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Torino,Fiorentina,4,0,2022-01-10,16963,2021,507653,0,0,0,0,0,0,0
+0,0,0,31,Sub,Inter,Torino,1,0,2021-12-22,16939,2021,504626,0,0,0,0,0,0.02292221412062645,0.02292221412062645
+0,0,0,1,Sub,Napoli,Torino,1,0,2021-10-17,16832,2021,489148,0,0,0,0,0,0,0

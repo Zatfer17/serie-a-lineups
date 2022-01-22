@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,55,Sub,Sassuolo,Udinese,1,1,2016-03-20,848,2015,109882,0,0,0,0,0,0,0
+0,0,0,80,DC,Udinese,Sassuolo,0,0,2015-11-01,657,2015,109611,0,0,0,0,0,0,0
+0,0,0,11,Sub,AC Milan,Sassuolo,2,1,2015-10-25,636,2015,108417,0,0,0,0,0,0,0
+0,0,0,7,Sub,Sassuolo,Lazio,2,1,2015-10-18,627,2015,107903,0,0,0,0,0,0,0
+0,0,0,90,DC,Empoli,Sassuolo,1,0,2015-10-04,613,2015,107185,0,0,0,0,0,0.05577487498521805,0.05577487498521805
+0,0,0,90,DC,Sassuolo,Chievo,1,1,2015-09-27,605,2015,106892,0,0,0,0,0,0.13739562034606934,0.13739562034606934

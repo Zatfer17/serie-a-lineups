@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bologna,AC Milan,0,1,2016-05-07,912,2015,113662,0,0,0,0,0,0.016014505177736282,0.016014505177736282
+0,0,0,90,GK,Udinese,Bologna,0,1,2016-02-14,799,2015,106988,0,0,0,0,0,0,0
+0,0,0,90,GK,Bologna,Fiorentina,1,1,2016-02-06,781,2015,105634,0,0,0,0,0,0,0
+0,0,0,90,GK,Bologna,Inter,0,1,2015-10-27,641,2015,108811,0.09955397993326187,0,1,0,0,0.12331710010766983,0.02376312017440796
+0,0,0,90,GK,Carpi,Bologna,1,2,2015-10-24,632,2015,108238,0,0,0,0,0,0,0

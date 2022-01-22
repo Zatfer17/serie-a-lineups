@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Carpi,Verona,0,0,2015-11-01,656,2015,109370,0,0,0,0,0,0,0
+0,0,0,28,GK,Carpi,Napoli,0,0,2015-09-23,595,2015,106388,0,0,0,0,0,0,0
+0,0,0,90,GK,Carpi,Fiorentina,0,1,2015-09-20,589,2015,105774,0,0,0,0,0,0.02062116004526615,0.02062116004526615
+0,0,0,90,GK,Palermo,Carpi,2,2,2015-09-13,575,2015,104534,0,0,0,0,0,0,0

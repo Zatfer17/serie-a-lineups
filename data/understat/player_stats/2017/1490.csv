@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Sassuolo,SPAL 2013,1,1,2018-03-11,7776,2017,223122,0,0,0,0,0,0,0
+0,0,0,13,Sub,Crotone,SPAL 2013,2,3,2018-02-25,7751,2017,219649,0,0,0,0,0,0,0
+0,0,0,63,DML,Napoli,SPAL 2013,1,0,2018-02-18,7741,2017,218421,0,0,0,0,0,0,0
+0,0,0,6,Sub,SPAL 2013,AC Milan,0,4,2018-02-10,7737,2017,217495,0,0,0,0,0,0,0
+0,0,0,1,Sub,Udinese,SPAL 2013,1,1,2018-01-21,7707,2017,209745,0,0,0,0,0,0,0

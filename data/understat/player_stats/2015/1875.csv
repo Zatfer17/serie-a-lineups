@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Frosinone,Sassuolo,0,1,2016-05-08,916,2015,113749,0,0,0,0,0,0.043586332350969315,0.043586332350969315
+0,0,0,21,Sub,AC Milan,Frosinone,3,3,2016-05-01,906,2015,113102,0,0,0,0,0,0,0
+0,1,0.045305415987968445,90,DC,Verona,Frosinone,1,2,2016-04-17,878,2015,111368,0,0,0,0,0.045305415987968445,0,0
+0,0,0,1,Sub,Frosinone,Fiorentina,0,0,2016-03-20,846,2015,109719,0,0,0,0,0,0,0
+0,0,0,90,DC,Carpi,Frosinone,2,1,2016-03-13,836,2015,109136,0,0,0,0,0,0,0

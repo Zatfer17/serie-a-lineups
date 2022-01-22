@@ -1,0 +1,8 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,24,Sub,Benevento,Crotone,1,1,2021-05-16,15789,2020,471412,0,0,0,0,0,0,0
+0,0,0,44,Sub,Crotone,Udinese,1,2,2021-04-17,15734,2020,462690,0.013136088848114014,0,1,0,0,0.013136088848114014,0
+0,0,0,9,Sub,Napoli,Crotone,4,3,2021-04-03,15706,2020,459430,0,0,0,0,0,0,0
+0,0,0,2,Sub,Fiorentina,Crotone,2,1,2021-01-23,15607,2020,444321,0,0,0,0,0,0,0
+0,1,0.03247946873307228,3,Sub,Crotone,Benevento,4,1,2021-01-17,15599,2020,442725,0,0,0,0,0.03247946873307228,0.03247946873307228,0
+0,0,0,3,Sub,Inter,Crotone,6,2,2021-01-03,15571,2020,439367,0,0,0,0,0,0,0
+0,0,0,1,Sub,Sampdoria,Crotone,3,1,2020-12-19,15553,2020,436088,0,0,0,0,0,0,0

@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Roma,Cagliari,1,0,2022-01-16,16971,2021,508713,0,0,0,0,0,0,0
+0,0,0,1,Sub,Atalanta,Roma,1,4,2021-12-18,16926,2021,503570,0,0,0,0,0,0,0
+0,0,0,1,Sub,Roma,Spezia,2,0,2021-12-13,16921,2021,502864,0,0,0,0,0,0,0
+0,0,0,28,Sub,Roma,Inter,0,3,2021-12-04,16912,2021,500066,0,0,0,0,0,0,0
+0,0,0,1,Sub,Genoa,Roma,0,2,2021-11-21,16879,2021,496774,0,0,0,0,0,0,0
+0,0,0,1,Sub,Roma,Fiorentina,3,1,2021-08-22,16763,2021,478052,0,0,0,0,0,0,0

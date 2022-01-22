@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chievo,Bologna,0,0,2016-05-15,927,2015,114108,0,0,0,0,0,0,0
+0,0,0,90,GK,Torino,Chievo,1,2,2016-02-07,787,2015,105536,0,0,0,0,0,0.020819861441850662,0.020819861441850662
+0,0,0,90,GK,Inter,Chievo,1,0,2016-02-03,774,2015,106207,0,0,0,0,0,0,0

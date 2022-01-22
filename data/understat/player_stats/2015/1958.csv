@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.04023119807243347,12,Sub,Verona,Empoli,0,1,2015-12-06,698,2015,111722,0,0,0,0,0.04023119807243347,0.04023119807243347,0
+0,0,0,20,Sub,Verona,Fiorentina,0,2,2015-10-28,643,2015,108879,0,0,0,0,0,0,0
+0,1,0.027783537283539772,13,Sub,Inter,Verona,1,0,2015-09-23,598,2015,106527,0,0,0,0,0.027783537283539772,0.027783537283539772,0

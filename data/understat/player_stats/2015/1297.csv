@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Juventus,Sampdoria,5,0,2016-05-14,921,2015,114304,0,0,0,0,0,0.008673588745296001,0.008673588745296001
+0,0,0,90,GK,Verona,Juventus,2,1,2016-05-08,920,2015,113620,0,0,0,0,0,0,0
+0,0,0,90,GK,Juventus,Frosinone,1,1,2015-09-23,599,2015,106528,0,0,0,0,0,0.11172851175069809,0.11172851175069809

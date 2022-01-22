@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Genoa,Atalanta,3,4,2021-05-15,15786,2020,470696,0,0,0,0,0,0.15946292877197266,0.15946292877197266
+0,0,0,43,Sub,Inter,Genoa,3,0,2021-02-28,15660,2020,453048,0,0,0,0,0,0,0
+0,0,0,34,Sub,Genoa,Cagliari,1,0,2021-01-24,15608,2020,444517,0,0,0,0,0,0,0
+0,0,0,10,Sub,Atalanta,Genoa,0,0,2021-01-17,15596,2020,442884,0,0,0,0,0,0,0

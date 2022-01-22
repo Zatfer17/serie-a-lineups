@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,53,DC,Benevento,Atalanta,0,3,2018-04-18,7819,2017,233347,0,0,0,0,0,0,0
+0,0,0,16,Sub,Benevento,Cagliari,1,2,2018-03-18,7781,2017,224597,0,0,0,0,0,0,0
+0,0,0,90,DC,Torino,Benevento,3,0,2018-01-28,7710,2017,210984,0,0,0,0,0,0,0
+0,0,0,90,DC,Bologna,Benevento,3,0,2018-01-21,7699,2017,209818,0,0,0,0,0,0.4955108165740967,0.4955108165740967
+0,0,0,43,Sub,Benevento,Sampdoria,3,2,2018-01-06,7696,2017,206917,0,0,0,0,0,0.02628384716808796,0.02628384716808796

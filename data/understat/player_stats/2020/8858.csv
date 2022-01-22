@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Cagliari,Roma,3,2,2021-04-25,15751,2020,466216,0,0,0,0,0,0,0
+0,0,0,90,GK,Udinese,Cagliari,0,1,2021-04-21,15738,2020,464472,0,0,0,0,0,0,0
+0,0,0,90,GK,Cagliari,Parma Calcio 1913,4,3,2021-04-17,15731,2020,463070,0,0,0,0,0,1.5896183252334595,1.5896183252334595
+0,0,0,90,GK,Inter,Cagliari,1,0,2021-04-11,15718,2020,461613,0,0,0,0,0,0,0

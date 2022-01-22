@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,22,Sub,Cagliari,Sassuolo,4,3,2016-12-22,3103,2016,170580,0,0,0,0,0,0,0
+0,1,0.08964121341705322,90,DC,Sassuolo,Atalanta,0,3,2016-11-06,2752,2016,167372,0,0,0,0,0.08964121341705322,0.48593899607658386,0.48593899607658386
+0,0,0,81,DC,Lazio,Sassuolo,2,1,2016-10-30,3293,2016,166774,0,0,0,0,0,0.30058160424232483,0.30058160424232483

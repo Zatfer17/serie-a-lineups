@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Verona,Salernitana,1,2,2022-01-09,16959,2021,507580,0,0,0,0,0,0,0
+0,0,0,53,MC,Salernitana,Juventus,0,2,2021-11-30,16903,2021,498704,0,0,0,0,0,0.05176325514912605,0.05176325514912605
+0,0,0,1,Sub,Cagliari,Salernitana,1,1,2021-11-26,16886,2021,496980,0,0,0,0,0,0,0
+0,0,0,21,Sub,Salernitana,Roma,0,4,2021-08-29,16775,2021,479844,0,0,0,0,0,0.034136321395635605,0.034136321395635605
+0,0,0,84,MC,Bologna,Salernitana,3,2,2021-08-22,16760,2021,477908,0,0,0,0,0,0.10549402981996536,0.10549402981996536

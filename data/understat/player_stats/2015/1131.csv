@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.027276625856757164,90,DC,AC Milan,Napoli,0,4,2015-10-04,619,2015,107282,0,0,0,0,0.027276625856757164,0.020662369206547737,0.020662369206547737
+0,1,0.2539686858654022,44,Sub,Genoa,AC Milan,1,0,2015-09-27,603,2015,106719,0,0,0,0,0.2539686858654022,0,0
+0,0,0,35,DC,Fiorentina,AC Milan,2,0,2015-08-23,559,2015,103811,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,29,Sub,Spezia,Genoa,1,2,2020-12-23,15563,2020,437627,0,0,0,0,0,0.023397179320454597,0.023397179320454597
+0,0,0,1,Sub,Inter,Spezia,2,1,2020-12-20,15550,2020,436568,0,0,0,0,0,0,0
+0,0,0,1,Sub,Spezia,Lazio,1,2,2020-12-05,15523,2020,431143,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Atalanta,Genoa,1,4,2015-05-17,4803,2014,55543,0,0,0,0,0,0,0
+0,0,0,46,MC,Palermo,Genoa,2,1,2015-04-19,4856,2014,54729,0.088973768055439,0,1,0,0,0.088973768055439,0
+0,0,0,7,Sub,Genoa,Parma,2,0,2015-04-15,4850,2014,53215,0,0,0,0,0,0,0
+0,0,0,1,Sub,Genoa,Verona,5,2,2015-02-15,4941,2014,52714,0,0,0,0,0,0,0
+0,0,0,69,MC,Genoa,Juventus,1,0,2014-10-29,5107,2014,48818,0,0,0,0,0,0,0

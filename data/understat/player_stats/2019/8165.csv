@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,28,Sub,Inter,Brescia,6,0,2020-07-01,13378,2019,404481,0,0,0,0,0,0.6471630930900574,0.6471630930900574
+0,0,0,27,Sub,Inter,Sassuolo,3,3,2020-06-24,13353,2019,402497,0.10267829149961472,0,1,0,0,0.10267829149961472,0
+0,0,0,3,Sub,Fiorentina,Inter,1,1,2019-12-15,13242,2019,370678,0,0,0,0,0,0,0

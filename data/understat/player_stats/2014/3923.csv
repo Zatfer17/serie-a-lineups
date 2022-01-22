@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.03256073221564293,6,Sub,Lazio,Chievo,1,1,2015-04-26,4867,2014,56449,0,0,0,0,0.03256073221564293,0,0
+0,0,0,10,Sub,Torino,Lazio,0,2,2015-03-16,4906,2014,54149,0,0,0,0,0,0,0
+0,0,0,48,Sub,Empoli,Lazio,2,1,2014-11-09,5044,2014,49366,0,0,0,0,0,0,0
+1,1,0.6180200576782227,2,Sub,Lazio,Cagliari,4,2,2014-11-03,5039,2014,49101,0,0,0,1,0.6180200576782227,0.6180200576782227,0

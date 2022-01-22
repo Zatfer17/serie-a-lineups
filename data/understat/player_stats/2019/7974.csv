@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,19,Sub,Lecce,Napoli,1,4,2019-09-22,13124,2019,352841,0,0,0,0,0,0.06190701574087143,0.06190701574087143
+0,0,0,61,DR,Lecce,Verona,0,1,2019-09-01,13103,2019,348400,0.09429973363876343,0,2,0,0,0.30535170435905457,0.28868037462234497
+0,0,0,18,Sub,Inter,Lecce,4,0,2019-08-26,13098,2019,345203,0,0,0,0,0,0,0

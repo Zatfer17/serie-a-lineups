@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,42,Sub,Bologna,Cagliari,2,0,2019-03-10,9837,2018,314980,0,0,0,0,0,0,0
+0,0,0,7,Sub,Cagliari,Inter,2,1,2019-03-01,9831,2018,307139,0,0,0,0,0,0,0
+0,0,0,33,Sub,Cagliari,Parma Calcio 1913,2,1,2019-02-16,9808,2018,306636,0,0,0,0,0,0,0
+0,0,0,14,Sub,AC Milan,Cagliari,3,0,2019-02-10,9802,2018,306594,0,0,0,0,0,0,0

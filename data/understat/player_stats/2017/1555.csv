@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,41,Sub,AC Milan,Fiorentina,5,1,2018-05-20,7873,2017,241170,0,0,0,0,0,0,0
+0,0,0,90,GK,Sassuolo,Fiorentina,1,0,2018-04-21,7832,2017,234470,0,0,0,0,0,0,0
+0,0,0,82,Sub,Fiorentina,Lazio,3,4,2018-04-18,7825,2017,233721,0,0,0,0,0,0.02777750790119171,0.02777750790119171

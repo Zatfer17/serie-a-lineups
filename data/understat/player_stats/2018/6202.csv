@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,32,Sub,Genoa,Napoli,1,2,2018-11-10,9691,2018,280541,0.024119261652231216,0,1,0,0,0.024119261652231216,0
+0,0,0,8,Sub,Inter,Genoa,5,0,2018-11-03,9680,2018,280221,0,0,0,0,0,0,0
+0,0,0,12,Sub,AC Milan,Genoa,2,1,2018-10-31,9581,2018,280165,0.09613320976495743,0,1,0,0,0.09613320976495743,0

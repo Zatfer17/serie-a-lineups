@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Verona,Bologna,2,2,2021-05-17,15787,2020,472287,0,0,0,0,0,0,0
+0,0,0,8,Sub,Udinese,Bologna,1,1,2021-05-08,15767,2020,468501,0,0,0,0,0,0,0
+0,0,0,1,Sub,Bologna,Fiorentina,3,3,2021-05-02,15759,2020,467560,0,0,0,0,0,0,0
+0,1,0.01880389265716076,21,Sub,Roma,Bologna,1,0,2021-04-11,15717,2020,462106,0,0,0,0,0.01880389265716076,0.01880389265716076,0
+0,0,0,8,Sub,Bologna,Inter,0,1,2021-04-03,15708,2020,459923,0,0,0,0,0,0,0

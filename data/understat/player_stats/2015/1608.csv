@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fiorentina,Torino,2,0,2016-01-24,753,2015,105062,0,0,0,0,0,0,0
+0,0,0,90,GK,Sassuolo,Torino,1,1,2016-01-20,750,2015,112367,0,0,0,0,0,0.14379945397377014,0.14379945397377014
+0,0,0,90,GK,Torino,Frosinone,4,2,2016-01-16,741,2015,104742,0,0,0,0,0,0.22551991045475006,0.22551991045475006

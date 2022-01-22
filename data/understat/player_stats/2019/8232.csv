@@ -1,0 +1,8 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,26,Sub,AC Milan,Cagliari,3,0,2020-08-01,13464,2019,412081,0,0,0,0,0,0,0
+0,0,0,50,DC,Cagliari,Sassuolo,1,1,2020-07-18,13419,2019,409694,0,0,0,0,0,0,0
+0,1,0.021198401227593422,90,DC,Sampdoria,Cagliari,3,0,2020-07-15,13414,2019,408824,0,0,0,0,0.021198401227593422,0.2557397484779358,0.2557397484779358
+0,0,0,25,DC,Cagliari,Atalanta,0,1,2020-07-05,13386,2019,405943,0,0,0,0,0,0,0
+0,0,0,90,DC,Bologna,Cagliari,1,1,2020-07-01,13370,2019,404518,0,0,0,0,0,0,0
+0,0,0,90,DC,Cagliari,Torino,4,2,2020-06-27,13360,2019,403464,0,0,0,0,0,0,0
+0,0,0,1,Sub,SPAL 2013,Cagliari,0,1,2020-06-23,13356,2019,402121,0,0,0,0,0,0,0

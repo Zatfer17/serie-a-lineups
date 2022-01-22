@@ -1,0 +1,8 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,48,DL,Lazio,Sampdoria,7,3,2017-05-07,3690,2016,169902,0,0,0,0,0,0,0
+0,0,0,73,DL,Sampdoria,Crotone,1,2,2017-04-23,3664,2016,168607,0,0,0,0,0,0.15140922367572784,0.15140922367572784
+0,0,0,75,DL,Sampdoria,Fiorentina,2,2,2017-04-09,3643,2016,167459,0.033418212085962296,0,1,0,0,0.07114655524492264,0.03772834315896034
+0,0,0,72,DL,Inter,Sampdoria,1,2,2017-04-03,3640,2016,167109,0,0,0,0,0,0,0
+0,0,0,40,Sub,Sampdoria,Bologna,3,1,2017-02-12,3579,2016,163557,0,0,0,0,0,0,0
+0,0,0,26,Sub,Napoli,Sampdoria,2,1,2017-01-07,3521,2016,171248,0,0,0,0,0,0,0
+0,0,0,34,Sub,Roma,Sampdoria,3,2,2016-09-11,956,2016,162400,0,0,0,0,0,0,0

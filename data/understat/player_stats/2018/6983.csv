@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Empoli,Inter,0,1,2018-12-29,9758,2018,291177,0,0,0,0,0,0.011881033889949322,0.011881033889949322
+0,0,0,18,Sub,Fiorentina,Empoli,3,1,2018-12-16,9731,2018,281626,0,0,0,0,0,0,0
+0,0,0,11,Sub,Empoli,Bologna,2,1,2018-12-09,9725,2018,281450,0,0,0,0,0,0.13177034258842468,0.13177034258842468

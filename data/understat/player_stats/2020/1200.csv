@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Genoa,Atalanta,3,4,2021-05-15,15786,2020,470695,0,0,0,0,0,0.2894819378852844,0.2894819378852844
+0,0,0,90,GK,Roma,Genoa,1,0,2021-03-07,15680,2020,454972,0,0,0,0,0,0.07011689245700836,0.07011689245700836
+0,0,0,67,GK,Fiorentina,Genoa,1,1,2020-12-07,15517,2020,432504,0,0,0,0,0,0,0
+0,0,0,90,GK,Napoli,Genoa,6,0,2020-09-27,14128,2020,418288,0,0,0,0,0,0,0

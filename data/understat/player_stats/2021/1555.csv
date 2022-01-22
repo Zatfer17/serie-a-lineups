@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fiorentina,Napoli,1,2,2021-10-03,16819,2021,487521,0,0,0,0,0,0,0
+0,0,0,90,GK,Udinese,Fiorentina,0,1,2021-09-26,16813,2021,485349,0,0,0,0,0,0.04143635928630829,0.04143635928630829
+0,0,0,90,GK,Fiorentina,Inter,1,3,2021-09-21,16799,2021,483429,0,0,0,0,0,0,0
+0,0,0,90,GK,Genoa,Fiorentina,1,2,2021-09-18,16787,2021,481890,0,0,0,0,0,0.3976358473300934,0.3976358473300934
+0,0,0,16,GK,Roma,Fiorentina,3,1,2021-08-22,16763,2021,478055,0,0,0,0,0,0,0

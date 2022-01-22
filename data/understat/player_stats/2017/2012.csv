@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Bologna,Sassuolo,2,1,2018-02-18,7740,2017,218399,0,0,0,0,0,0,0
+0,0,0,17,Sub,Sassuolo,AC Milan,0,2,2017-11-05,7618,2017,194994,0,0,0,0,0,0.03313694894313812,0.03313694894313812
+0,0,0,19,Sub,Napoli,Sassuolo,3,1,2017-10-29,7603,2017,194618,0,0,0,0,0,0,0

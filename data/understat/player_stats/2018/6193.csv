@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Parma Calcio 1913,Bologna,0,0,2018-12-22,9740,2018,281890,0,0,0,0,0,0,0
+0,1,0.0699223205447197,14,Sub,Sampdoria,Parma Calcio 1913,2,0,2018-12-16,9735,2018,281681,0,0,0,0,0.0699223205447197,0.0699223205447197,0
+0,0,0,28,Sub,AC Milan,Parma Calcio 1913,2,1,2018-12-02,9711,2018,281104,0.010869757272303104,0,1,0,0,0,0
+0,0,0,15,Sub,Atalanta,Parma Calcio 1913,3,0,2018-10-27,9667,2018,279916,0.07722494006156921,0,1,0,0,0.07722494006156921,0
+0,0,0,11,Sub,Parma Calcio 1913,Lazio,0,2,2018-10-21,9662,2018,279791,0,0,0,0,0,0,0
+0,0,0,61,FWR,Napoli,Parma Calcio 1913,3,0,2018-09-26,9633,2018,252407,0,0,0,0,0,0,0

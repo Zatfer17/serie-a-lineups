@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,16,Sub,Juventus,Palermo,4,0,2016-04-17,876,2015,111488,0,0,0,0,0,0,0
+0,3,0.2115595042705536,33,Sub,Palermo,Lazio,0,3,2016-04-10,869,2015,110972,0,0,0,0,0.2115595042705536,0.15990060567855835,0
+0,0,0,8,Sub,Torino,Palermo,2,1,2015-09-27,606,2015,106944,0,0,0,0,0,0,0

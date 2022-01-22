@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,18,Sub,Juventus,Sampdoria,3,2,2021-09-26,16809,2021,485162,0.07718338817358017,0,1,0,0,0.07718338817358017,0
+0,0,0,18,Sub,Napoli,Juventus,2,1,2021-09-11,16781,2021,480520,0,0,0,0,0,0,0
+0,0,0,61,MC,Udinese,Juventus,2,2,2021-08-22,16761,2021,477941,0.0736265704035759,0,1,0,0,0.8275135159492493,0.7538869380950928

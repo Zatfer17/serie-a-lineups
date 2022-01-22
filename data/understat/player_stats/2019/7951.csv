@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Sassuolo,Inter,3,4,2019-10-20,13167,2019,358367,0,0,0,0,0,0.019430391490459442,0.019430391490459442
+0,0,0,43,Sub,Sassuolo,Atalanta,1,4,2019-09-28,13147,2019,355094,0,0,0,0,0,0,0

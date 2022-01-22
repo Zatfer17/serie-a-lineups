@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Cagliari,Genoa,0,1,2021-05-22,15798,2020,473173,0,0,0,0,0,0.09910056740045547,0.09910056740045547
+0,0,0,23,Sub,Fiorentina,Genoa,1,1,2020-12-07,15517,2020,432517,0,0,0,0,0,0,0
+0,0,0,90,GK,Genoa,Parma Calcio 1913,1,2,2020-11-30,15510,2020,430891,0,0,0,0,0,0.09137770533561707,0.09137770533561707

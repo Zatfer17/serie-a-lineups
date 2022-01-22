@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.016907650977373123,6,Sub,Lazio,Sampdoria,1,1,2015-12-14,709,2015,112268,0,0,0,0,0.016907650977373123,0.03668494522571564,0.019777296110987663
+0,0,0,26,Sub,AC Milan,Sampdoria,4,1,2015-11-28,682,2015,111155,0,0,0,0,0,0,0
+0,0,0,8,Sub,Udinese,Sampdoria,1,0,2015-11-22,675,2015,110736,0,0,0,0,0,0,0
+0,0,0,28,Sub,Sampdoria,Verona,4,1,2015-10-25,634,2015,108460,0,0,0,0,0,0,0

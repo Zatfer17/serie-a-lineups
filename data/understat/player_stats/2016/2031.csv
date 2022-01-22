@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,20,Sub,Crotone,Lazio,3,1,2017-05-28,3716,2016,171470,0,0,0,0,0,0,0
+0,0,0,14,Sub,Lazio,Chievo,0,1,2017-01-28,3550,2016,162469,0,0,0,0,0,0,0
+0,1,0.029439158737659454,7,Sub,Lazio,Crotone,1,0,2017-01-08,3525,2016,171180,0,0,0,0,0.029439158737659454,0,0

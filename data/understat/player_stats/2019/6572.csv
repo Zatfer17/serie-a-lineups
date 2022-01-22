@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,28,Sub,Sampdoria,Atalanta,0,0,2019-11-10,13206,2019,363791,0,0,0,0,0,0.0710751861333847,0.0710751861333847
+0,0,0,28,Sub,Sassuolo,Atalanta,1,4,2019-09-28,13147,2019,355106,0.03958755359053612,0,1,0,0,0,0
+0,0,0,3,Sub,Atalanta,Fiorentina,2,2,2019-09-22,13119,2019,353175,0,0,0,0,0,0,0
+0,0,0,10,Sub,Atalanta,Torino,2,3,2019-09-01,13104,2019,348438,0,0,0,0,0,0.2571360468864441,0.2571360468864441

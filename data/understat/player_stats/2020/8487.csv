@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Inter,Udinese,5,1,2021-05-23,15804,2020,473251,0,0,0,0,0,0,0
+0,0,0,3,Sub,Napoli,Udinese,5,1,2021-05-11,15784,2020,469982,0,0,0,0,0,0,0
+0,0,0,57,MC,Udinese,Spezia,0,2,2020-09-30,14134,2020,418822,0,0,0,0,0,0.0717475488781929,0.0717475488781929

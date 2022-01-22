@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,DC,Sassuolo,Frosinone,2,2,2019-05-05,9920,2018,330898,0,0,0,0,0,0.04843936860561371,0.04843936860561371
+0,0,0,47,DC,Roma,Sassuolo,3,1,2018-12-26,9753,2018,282363,0,0,0,0,0,0.022165780887007713,0.022165780887007713
+0,0,0,90,DC,Sassuolo,Genoa,5,3,2018-09-02,9605,2018,247770,0,0,0,0,0,0.0976572334766388,0.0976572334766388

@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Parma Calcio 1913,SPAL 2013,0,1,2020-03-08,13345,2019,397128,0,0,0,0,0,0.021970918402075768,0.021970918402075768
+0,0,0,90,GK,Sassuolo,Parma Calcio 1913,0,1,2020-02-16,13327,2019,394153,0,0,0,0,0,0,0
+0,0,0,90,GK,Parma Calcio 1913,Lazio,0,1,2020-02-09,13314,2019,393250,0,0,0,0,0,0,0
+0,0,0,90,GK,Cagliari,Parma Calcio 1913,2,2,2020-02-01,13301,2019,391265,0,0,0,0,0,0,0

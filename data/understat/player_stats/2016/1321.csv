@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Palermo,Empoli,2,1,2017-05-28,3713,2016,171376,0,0,0,0,0,0.2505129277706146,0.2505129277706146
+0,0,0,90,GK,Udinese,Empoli,2,0,2016-08-28,947,2016,161831,0,0,0,0,0,0,0
+0,0,0,90,GK,Empoli,Sampdoria,0,1,2016-08-21,939,2016,161093,0,0,0,0,0,0.03671129047870636,0.03671129047870636

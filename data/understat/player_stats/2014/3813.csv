@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,59,FW,Empoli,Sampdoria,1,1,2015-05-24,4811,2014,57077,0.052064716815948486,0,1,0,0,0.052064716815948486,0
+0,3,0.543914258480072,34,Sub,Udinese,Sampdoria,1,4,2015-05-10,4792,2014,56773,0.3533235788345337,0,1,0,0.543914258480072,0.8162590265274048,0.3533235788345337
+0,0,0,1,Sub,Parma,Sampdoria,0,2,2015-01-18,4984,2014,51536,0,0,0,0,0,0,0

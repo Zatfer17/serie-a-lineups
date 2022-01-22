@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Sampdoria,Parma Calcio 1913,3,0,2021-05-22,15802,2020,473202,0,0,0,0,0,0,0
+0,0,0,71,DL,Sampdoria,Bologna,1,2,2020-11-22,15502,2020,428673,0.04420395568013191,0,1,0,0,0.04420395568013191,0
+0,0,0,5,Sub,Fiorentina,Sampdoria,1,2,2020-10-02,15446,2020,419154,0,0,0,0,0,0,0

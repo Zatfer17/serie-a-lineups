@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Genoa,Verona,3,0,2020-08-02,13466,2019,412255,0,0,0,0,0,0.10581467300653458,0.10581467300653458
+0,0,0,90,GK,Verona,SPAL 2013,3,0,2020-07-29,13452,2019,411864,0,0,0,0,0,0.08164623379707336,0.08164623379707336
+0,0,0,90,GK,Verona,Lazio,1,5,2020-07-26,13446,2019,411588,0,0,0,0,0,0,0

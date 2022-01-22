@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,19,Sub,Juventus,Cagliari,2,0,2021-12-21,16940,2021,504442,0,0,0,0,0,0,0
+0,0,0,8,Sub,Inter,Cagliari,4,0,2021-12-12,16919,2021,502760,0,0,0,0,0,0,0
+0,0,0,6,Sub,Sassuolo,Cagliari,2,2,2021-11-21,16884,2021,496197,0,0,0,0,0,0,0
+0,0,0,9,Sub,Cagliari,Roma,1,2,2021-10-27,16846,2021,491526,0,0,0,0,0,0,0

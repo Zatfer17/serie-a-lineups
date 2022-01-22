@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,43,Sub,Empoli,Cagliari,0,4,2014-10-25,5089,2014,48517,0,0,0,0,0,0,0
+0,0,0,23,Sub,Empoli,Palermo,3,0,2014-10-05,5071,2014,47904,0,0,0,0,0,0,0
+0,0,0,17,Sub,Cesena,Empoli,2,2,2014-09-20,5119,2014,47106,0,0,0,0,0,0.01823110692203045,0.01823110692203045
+0,1,0.012416803278028965,28,Sub,Empoli,Roma,0,1,2014-09-13,5109,2014,46812,0,0,0,0,0.012416803278028965,0.012416803278028965,0.012416803278028965

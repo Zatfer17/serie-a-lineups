@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Lazio,Inter,2,1,2020-02-16,13323,2019,394348,0,0,0,0,0,0,0
+0,0,0,90,GK,Inter,AC Milan,4,2,2020-02-09,13312,2019,393306,0,0,0,0,0,0.34864792227745056,0.34864792227745056
+0,0,0,90,GK,Udinese,Inter,0,2,2020-02-02,13308,2019,391930,0,0,0,0,0,0,0

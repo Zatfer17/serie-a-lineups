@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Juventus,Fiorentina,1,0,2021-11-06,16868,2021,494138,0,0,0,0,0,0,0
+0,0,0,90,GK,Juventus,Sassuolo,1,2,2021-10-27,16848,2021,491326,0,0,0,0,0,0.025746792554855347,0.025746792554855347
+0,0,0,90,GK,Juventus,Sampdoria,3,2,2021-09-26,16809,2021,485147,0,0,0,0,0,0,0

@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.012344712391495705,34,Sub,Palermo,Lazio,0,1,2016-11-27,2768,2016,168335,0.030834026634693146,0,1,0,0.012344712391495705,0.08226732909679413,0.03908859193325043
+0,0,0,1,Sub,Sampdoria,Palermo,1,1,2016-10-02,993,2016,164803,0,0,0,0,0,0,0

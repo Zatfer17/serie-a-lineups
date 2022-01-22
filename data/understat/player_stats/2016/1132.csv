@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Cagliari,Inter,1,5,2017-03-05,3605,2016,165277,0,0,0,0,0,0,0
+0,0,0,90,GK,Crotone,Cagliari,1,2,2017-02-26,3594,2016,164482,0,0,0,0,0,0.06402178853750229,0.06402178853750229
+0,0,0,90,GK,Sampdoria,Cagliari,1,1,2017-02-19,3587,2016,164174,0,0,0,0,0,0.05808237940073013,0.05808237940073013

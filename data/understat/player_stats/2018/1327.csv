@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.1315212845802307,75,ML,Sampdoria,Juventus,2,0,2019-05-26,9954,2018,335109,0.05383510887622833,0,2,0,0.1315212845802307,0.25915008783340454,0.1422441452741623
+0,0,0,12,Sub,Juventus,Torino,1,1,2019-05-03,9922,2018,329856,0,0,0,0,0,0.3027518391609192,0.3027518391609192
+0,0,0,4,Sub,Inter,Juventus,1,1,2019-04-27,9907,2018,328542,0,0,0,0,0,0,0
