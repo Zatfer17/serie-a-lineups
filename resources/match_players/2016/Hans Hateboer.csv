@@ -1,4 +1,0 @@
-,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-6700,2016,3630,4941,Hans Hateboer,h,MR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-7280,2016,3652,4941,Hans Hateboer,a,DMR,90.0,0.0,1.0,2.0,1.0,0.0,0.0932346209883689,0.0897625163197517,1.0,-0.1305336207151413,1.0
-7720,2016,3674,4941,Hans Hateboer,h,AMC,180.0,0.0,1.0,3.0,2.0,0.0,0.1856557205319403,0.0897625163197517,1.0,-0.35327032208442677,0.0

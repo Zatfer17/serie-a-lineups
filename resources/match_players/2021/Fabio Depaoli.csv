@@ -1,6 +1,0 @@
-,season,matchId,playerId,player,homeOrAway,position,time,goals,assists,shots,yellowCard,redCard,xG,xA,bonus,xB,lastBonus
-879,2021,16786,1624,Fabio Depaoli,a,Sub,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1200,2021,16803,1624,Fabio Depaoli,h,Sub,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1363,2021,16809,1624,Fabio Depaoli,a,MR,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-0.5,0.0
-5040,2021,16959,1624,Fabio Depaoli,h,DMR,101.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-0.5,0.0
-5215,2021,16974,1624,Fabio Depaoli,a,DMR,161.0,0.0,0.0,1.0,1.0,0.0,0.035694669932127,0.0318658947944641,0.0,-0.3610500954091549,0.0
