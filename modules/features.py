@@ -143,6 +143,11 @@ def get_features(seasons):
             players             = players.append(player_stats, ignore_index=True) if players is not None else player_stats
             friendly            = friendly.append(friendly_team_stats, ignore_index=True) if friendly is not None else friendly_team_stats
             enemy               = enemy.append(enemy_team_stats, ignore_index=True) if enemy is not None else enemy_team_stats
+        
+        population = population.reset_index(drop=True)
+        players    = players.reset_index(drop=True)
+        friendly   = friendly.reset_index(drop=True)
+        enemy      = enemy.reset_index(drop=True)
 
         dataset = population.join([players, friendly, enemy])
         dataset = dataset.fillna(0)
