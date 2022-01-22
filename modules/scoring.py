@@ -9,6 +9,7 @@ from tqdm import trange, tqdm
 from datetime import datetime
 from understat import Understat
 from modules.features import get_team_stats, get_player_stats
+nest_asyncio.apply()
 
 def routine(functionality):
     loop = asyncio.get_event_loop()
@@ -151,6 +152,11 @@ def get_features(scoring_set, league_name):
             players             = players.append(player_stats, ignore_index=True) if players is not None else player_stats
             friendly            = friendly.append(friendly_team_stats, ignore_index=True) if friendly is not None else friendly_team_stats
             enemy               = enemy.append(enemy_team_stats, ignore_index=True) if enemy is not None else enemy_team_stats
+            
+    scoring_set = scoring_set.reset_index(drop=True)
+    players     = players.reset_index(drop=True)
+    friendly    = friendly.reset_index(drop=True)
+    enemy       = enemy.reset_index(drop=True)
     
     scoring_set = scoring_set.join([players, friendly, enemy])
     scoring_set = scoring_set.fillna(0)
@@ -192,7 +198,7 @@ def get_features(scoring_set, league_name):
         'xGC90OT'
     ]]
 
-def score(X, scoring_set, league_name):
+def score(X, scoring_set, league_name, save=True):
     
     with open('model/model.pkl', 'rb') as f:
         model = pickle.load(f)
@@ -211,4 +217,7 @@ def score(X, scoring_set, league_name):
     
     filename = '{}_{}_{}_{}'.format(league_name, pd.Timestamp('today').day, pd.Timestamp('today').month, pd.Timestamp('today').year)
     
-    final.to_csv('data/outputs/predictions/{}.csv'.format(filename), index=False)
+    if save:
+        final.to_csv('data/outputs/predictions/{}.csv'.format(filename), index=False)
+    
+    return final
