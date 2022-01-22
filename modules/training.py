@@ -52,15 +52,8 @@ def transform_data(X_test_raw, categorical_columns, X_train_raw=None, production
     X_test_values = ct.transform(X_test_raw)
     
     feature_names = ct.transformers_[0][2]
-    encoded_features = ct.transformers_[1][1].get_feature_names()
-
-    temp = []
-    for index, feature in enumerate(ct.transformers_[1][2]):
-        for column in encoded_features:
-            if 'x'+str(index)+'_' in column:
-                temp.append(column.replace('x'+str(index)+'_', feature+'_'))
-
-    feature_names.extend(temp)
+    encoded_features = ct.transformers_[1][1].get_feature_names_out()
+    feature_names.extend(encoded_features)
     
     if not production:
     
@@ -121,7 +114,7 @@ def get_best_parameters(X_train, y_train, max_evals=128):
         space=space,
         algo=tpe.suggest,
         max_evals=max_evals,
-        early_stop_fn=no_progress_loss(30)
+        early_stop_fn=no_progress_loss(20)
         )
     
     best_params = space_eval(space, best_hyperparameters)
