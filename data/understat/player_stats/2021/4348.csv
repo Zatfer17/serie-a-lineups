@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Genoa,Udinese,0,0,2022-01-22,16978,2021,509539,0,0,0,0,0,0,0
 0,0,0,87,MC,Juventus,Udinese,2,0,2022-01-15,16969,2021,508308,0.1168559268116951,0,2,0,0,0.1567860096693039,0.1567860096693039
 0,0,0,77,MC,Cagliari,Udinese,0,4,2021-12-18,16928,2021,503896,0,0,0,0,0,0,0
 0,0,0,71,MC,Udinese,AC Milan,1,1,2021-12-11,16924,2021,502011,0.3536157011985779,0,2,0,0,0.3536157011985779,0
