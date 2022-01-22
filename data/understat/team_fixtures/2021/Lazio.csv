@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-16981,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-22 19:45:00
 16988,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-06 02:00:00
 17000,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-13 02:00:00
 17014,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 02:00:00

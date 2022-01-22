@@ -1,164 +1,109 @@
 fanta_team,role,player,home_team,away_team,expected_bonus
-ssc mozzarella,D,Berat Gjimshiti,Lazio,Atalanta,0.6641608
-ssc mozzarella,D,Fikayo Tomori,AC Milan,Juventus,0.63253874
-ssc mozzarella,D,Luiz Felipe,Lazio,Atalanta,0.41820624
-ssc mozzarella,D,Mário Rui,Napoli,Salernitana,0.35375085
-ssc mozzarella,D,Denzel Dumfries,Inter,Venezia,0.3026525
-ssc mozzarella,D,Ibañez,Empoli,Roma,0.16244334
-ssc mozzarella,D,Manuel Lazzari,Lazio,Atalanta,0.09277739
-ssc mozzarella,D,Chris Smalling,Empoli,Roma,0.09063221
-ssc mozzarella,C,Henrikh Mkhitaryan,Empoli,Roma,0.9857382
-ssc mozzarella,C,Lucas Torreira,Cagliari,Fiorentina,0.9848358
-ssc mozzarella,C,Federico Chiesa,AC Milan,Juventus,0.6876212
-ssc mozzarella,C,Fabián,Napoli,Salernitana,0.36647266
-ssc mozzarella,C,Roberto Pereyra,Genoa,Udinese,0.33188602
-ssc mozzarella,C,Maxime Lopez,Torino,Sassuolo,0.32925028
-ssc mozzarella,C,Remo Freuler,Lazio,Atalanta,0.14250453
-ssc mozzarella,A,Victor Osimhen,Napoli,Salernitana,1.4971484
-ssc mozzarella,A,Federico Bonazzoli,Napoli,Salernitana,1.2538244
-ssc mozzarella,A,Franck Ribéry,Napoli,Salernitana,0.50080884
-ssc mozzarella,A,Josip Ilicic,Lazio,Atalanta,0.3624792
-ssc mozzarella,A,Matteo Politano,Napoli,Salernitana,0.27746445
-ssc mozzarella,A,Leonardo Pavoletti,Cagliari,Fiorentina,0.19769147
-Scansuolo ,D,Kalidou Koulibaly,Napoli,Salernitana,0.3754033
-Scansuolo ,D,Mergim Vojvoda,Torino,Sassuolo,0.3749157
-Scansuolo ,D,Merih Demiral,Lazio,Atalanta,0.24888396
-Scansuolo ,D,Rick Karsdorp,Empoli,Roma,0.224653
-Scansuolo ,D,Elseid Hysaj,Lazio,Atalanta,0.18797651
-Scansuolo ,D,Paolo Ghiglione,Genoa,Udinese,0.15605335
-Scansuolo ,D,Gabriele Zappa,Cagliari,Fiorentina,0.15053898
-Scansuolo ,D,Nikola Maksimovic,Genoa,Udinese,0.087963976
-Scansuolo ,C,Brahim Diaz,AC Milan,Juventus,0.6400081
-Scansuolo ,C,Matteo Pessina,Lazio,Atalanta,0.5880809
-Scansuolo ,C,Mattia Zaccagni,Lazio,Atalanta,0.3143398
-Scansuolo ,C,Junior Messias,AC Milan,Juventus,0.30971396
-Scansuolo ,C,Hamed Junior Traore,Torino,Sassuolo,0.15302318
-Scansuolo ,C,Hernani,Genoa,Udinese,0.10016011
-Scansuolo ,C,Arnór Sigurdsson,Inter,Venezia,-0.00043594782
-Scansuolo ,A,Ciro Immobile,Lazio,Atalanta,2.2353582
-Scansuolo ,A,Gianluca Scamacca,Torino,Sassuolo,1.2342477
-Scansuolo ,A,João Pedro,Cagliari,Fiorentina,1.0665741
-Scansuolo ,A,Rafael Leão,AC Milan,Juventus,0.74142164
-Scansuolo ,A,Simy,Napoli,Salernitana,0.6147743
-Scansuolo ,A,Felipe Caicedo,Genoa,Udinese,0.3499977
-Rione Monti,D,Cristiano Biraghi,Cagliari,Fiorentina,0.52338886
-Rione Monti,D,Wilfried Stephane Singo,Torino,Sassuolo,0.4621506
-Rione Monti,D,Bremer,Torino,Sassuolo,0.41884062
-Rione Monti,D,Simone Bastoni,Spezia,Sampdoria,0.3487822
-Rione Monti,D,Joakim Maehle,Lazio,Atalanta,0.3226584
-Rione Monti,D,Matias Viña,Empoli,Roma,0.24168786
-Rione Monti,D,Gianluca Mancini,Empoli,Roma,0.2261864
-Rione Monti,D,Iyenoma Destiny Udogie,Genoa,Udinese,0.14139596
-Rione Monti,C,Lorenzo Pellegrini,Empoli,Roma,1.3343018
-Rione Monti,C,Nicolo Zaniolo,Empoli,Roma,0.9121341
-Rione Monti,C,Felipe Anderson,Lazio,Atalanta,0.55897033
-Rione Monti,C,Arturo Vidal,Inter,Venezia,0.5495327
-Rione Monti,C,Davide Frattesi,Torino,Sassuolo,0.483791
-Rione Monti,C,Mikkel Damsgaard,Spezia,Sampdoria,0.2647736
-Rione Monti,C,Viktor Kovalenko,Spezia,Sampdoria,0.25032166
-Rione Monti,C,Kevin Strootman,Cagliari,Fiorentina,0.18302597
-Rione Monti,A,Edin Dzeko,Inter,Venezia,2.2372618
-Rione Monti,A,Zlatan Ibrahimovic,AC Milan,Juventus,1.445559
-Rione Monti,A,Álvaro Morata,AC Milan,Juventus,0.9456921
-Rione Monti,A,Giacomo Raspadori,Torino,Sassuolo,0.7814487
-Rione Monti,A,Pedro,Lazio,Atalanta,0.720983
-Rione Monti,A,Eldor Shomurodov,Empoli,Roma,0.5386472
-MaiNa Joya_v2.0,D,Theo Hernández,AC Milan,Juventus,0.47351733
-MaiNa Joya_v2.0,D,Nahuel Molina,Genoa,Udinese,0.41053718
-MaiNa Joya_v2.0,D,Nikola Milenkovic,Cagliari,Fiorentina,0.26641005
-MaiNa Joya_v2.0,D,Petar Stojanovic,Empoli,Roma,0.1781244
-MaiNa Joya_v2.0,D,Rafael Toloi,Lazio,Atalanta,0.15591267
-MaiNa Joya_v2.0,D,Gianmarco Ferrari,Torino,Sassuolo,0.15398869
-MaiNa Joya_v2.0,D,Diego Godín,Cagliari,Fiorentina,0.15079927
-MaiNa Joya_v2.0,D,Matteo Ruggeri,Napoli,Salernitana,0.06932524
-MaiNa Joya_v2.0,C,Sergej Milinkovic-Savic,Lazio,Atalanta,0.77204317
-MaiNa Joya_v2.0,C,Jordan Veretout,Empoli,Roma,0.7655053
-MaiNa Joya_v2.0,C,Nedim Bajrami,Empoli,Roma,0.74828076
-MaiNa Joya_v2.0,C,Nicolò Barella,Inter,Venezia,0.70628345
-MaiNa Joya_v2.0,C,Filip Djuricic,Torino,Sassuolo,0.7060575
-MaiNa Joya_v2.0,C,Tommaso Pobega,Torino,Sassuolo,0.53001904
-MaiNa Joya_v2.0,C,Youssef Maleh,Cagliari,Fiorentina,0.41046208
-MaiNa Joya_v2.0,C,Marten de Roon,Lazio,Atalanta,0.16787775
-MaiNa Joya_v2.0,A,Lorenzo Insigne,Napoli,Salernitana,2.191857
-MaiNa Joya_v2.0,A,Tammy Abraham,Empoli,Roma,2.0169876
-MaiNa Joya_v2.0,A,Josip Brekalo,Torino,Sassuolo,0.8626707
-MaiNa Joya_v2.0,A,Patrick Cutrone,Empoli,Roma,0.84210306
-MaiNa Joya_v2.0,A,Ignacio Pussetto,Genoa,Udinese,0.30733833
-MEZAFE,D,Matija Nastasic,Cagliari,Fiorentina,0.4484344
-MEZAFE,D,Francesco Acerbi,Lazio,Atalanta,0.37523618
-MEZAFE,D,Giorgio Chiellini,AC Milan,Juventus,0.35041302
-MEZAFE,D,Davide Zappacosta,Lazio,Atalanta,0.28292564
-MEZAFE,D,Domenico Criscito,Genoa,Udinese,0.23811796
-MEZAFE,D,Stefan de Vrij,Inter,Venezia,0.21557514
-MEZAFE,D,Leonardo Bonucci,AC Milan,Juventus,0.21246403
-MEZAFE,D,Danilo,AC Milan,Juventus,0.18331374
-MEZAFE,C,Weston McKennie,AC Milan,Juventus,0.7623729
-MEZAFE,C,Simone Verdi,Torino,Sassuolo,0.71841884
-MEZAFE,C,Sandro Tonali,AC Milan,Juventus,0.47550067
-MEZAFE,C,Gaetano Castrovilli,Cagliari,Fiorentina,0.4519316
-MEZAFE,C,Bryan Cristante,Empoli,Roma,0.44802487
-MEZAFE,C,Alexis Saelemaekers,AC Milan,Juventus,0.40103662
-MEZAFE,C,Mario Pasalic,Lazio,Atalanta,0.38650626
-MEZAFE,C,Ivan Perisic,Inter,Venezia,0.3619374
-MEZAFE,A,Joaquín Correa,Inter,Venezia,1.4870262
-MEZAFE,A,Paulo Dybala,AC Milan,Juventus,0.93577874
-MEZAFE,A,Fabio Quagliarella,Spezia,Sampdoria,0.8916912
-MEZAFE,A,Moise Kean,AC Milan,Juventus,0.32371777
-MEZAFE,A,Ante Rebic,AC Milan,Juventus,0.21905208
-Beverly INPS,D,Federico Dimarco,Inter,Venezia,0.561907
-Beverly INPS,D,Juan Cuadrado,AC Milan,Juventus,0.41950962
-Beverly INPS,D,Giovanni Di Lorenzo,Napoli,Salernitana,0.36023077
-Beverly INPS,D,Alessandro Bastoni,Inter,Venezia,0.28993478
-Beverly INPS,D,Alessio Romagnoli,AC Milan,Juventus,0.14226672
-Beverly INPS,D,Simon Kjaer,AC Milan,Juventus,0.115407415
-Beverly INPS,D,Bram Nuytinck,Genoa,Udinese,0.09354344
-Beverly INPS,C,Piotr Zielinski,Napoli,Salernitana,1.3872019
-Beverly INPS,C,Dennis Praet,Torino,Sassuolo,1.3280517
-Beverly INPS,C,José Callejón,Cagliari,Fiorentina,0.9479859
-Beverly INPS,C,Franck Kessié,AC Milan,Juventus,0.7218831
-Beverly INPS,C,Luis Alberto,Lazio,Atalanta,0.6074389
-Beverly INPS,C,Eljif Elmas,Napoli,Salernitana,0.28083998
-Beverly INPS,C,Dejan Kulusevski,AC Milan,Juventus,0.23312683
-Beverly INPS,A,Nicolás González,Cagliari,Fiorentina,2.116549
-Beverly INPS,A,Lautaro Martínez,Inter,Venezia,1.9500983
-Beverly INPS,A,Domenico Berardi,Torino,Sassuolo,0.97928727
-Beverly INPS,A,Dries Mertens,Napoli,Salernitana,0.8834396
-Beverly INPS,A,M&#039;Bala Nzola,Spezia,Sampdoria,0.5402316
-AI sereje ja dejeDe jebe tu de jebere,D,Robin Gosens,Lazio,Atalanta,0.6031079
-AI sereje ja dejeDe jebe tu de jebere,D,Amir Rrahmani,Napoli,Salernitana,0.39615482
-AI sereje ja dejeDe jebe tu de jebere,D,Matteo Darmian,Inter,Venezia,0.37486446
-AI sereje ja dejeDe jebe tu de jebere,D,Milan Skriniar,Inter,Venezia,0.35966867
-AI sereje ja dejeDe jebe tu de jebere,D,Kostas Manolas,Napoli,Salernitana,0.2642873
-AI sereje ja dejeDe jebe tu de jebere,D,Tommaso Augello,Spezia,Sampdoria,0.14619265
-AI sereje ja dejeDe jebe tu de jebere,D,Ridgeciano Haps,Inter,Venezia,0.05608595
-AI sereje ja dejeDe jebe tu de jebere,C,Antonio Candreva,Spezia,Sampdoria,0.65570354
-AI sereje ja dejeDe jebe tu de jebere,C,Giacomo Bonaventura,Cagliari,Fiorentina,0.63484126
-AI sereje ja dejeDe jebe tu de jebere,C,Marcelo Brozovic,Inter,Venezia,0.3730718
-AI sereje ja dejeDe jebe tu de jebere,C,Manuel Locatelli,AC Milan,Juventus,0.3713879
-AI sereje ja dejeDe jebe tu de jebere,C,Giulio Maggiore,Spezia,Sampdoria,0.35120127
-AI sereje ja dejeDe jebe tu de jebere,C,Aleksey Miranchuk,Lazio,Atalanta,0.34117103
-AI sereje ja dejeDe jebe tu de jebere,A,Dusan Vlahovic,Cagliari,Fiorentina,2.1284537
-AI sereje ja dejeDe jebe tu de jebere,A,Duván Zapata,Lazio,Atalanta,2.0470026
-AI sereje ja dejeDe jebe tu de jebere,A,Beto,Genoa,Udinese,1.0631211
-AI sereje ja dejeDe jebe tu de jebere,A,Francesco Caputo,Spezia,Sampdoria,1.0228076
-AI sereje ja dejeDe jebe tu de jebere,A,Hirving Lozano,Napoli,Salernitana,0.85970634
-AI sereje ja dejeDe jebe tu de jebere,A,Leonardo Mancuso,Empoli,Roma,0.68893224
-AC Picchia,D,Davide Calabria,AC Milan,Juventus,0.4306633
-AC Picchia,D,Alex Sandro,AC Milan,Juventus,0.3198135
-AC Picchia,D,Matthijs de Ligt,AC Milan,Juventus,0.30636746
-AC Picchia,D,Álvaro Odriozola,Cagliari,Fiorentina,0.2963781
-AC Picchia,D,Alessandro Florenzi,AC Milan,Juventus,0.26762378
-AC Picchia,D,Jens Stryger Larsen,Genoa,Udinese,0.2506904
-AC Picchia,D,Dalbert,Cagliari,Fiorentina,0.1862602
-AC Picchia,C,Hakan Calhanoglu,Inter,Venezia,0.95526886
-AC Picchia,C,Ruslan Malinovskiy,Lazio,Atalanta,0.9355158
-AC Picchia,C,Mattia Aramu,Inter,Venezia,0.575268
-AC Picchia,C,Morten Thorsby,Spezia,Sampdoria,0.3463542
-AC Picchia,C,Razvan Marin,Cagliari,Fiorentina,0.32411054
-AC Picchia,C,Nahitan Nández,Cagliari,Fiorentina,0.2615001
-AC Picchia,A,Luis Muriel,Lazio,Atalanta,1.4515698
-AC Picchia,A,Olivier Giroud,AC Milan,Juventus,1.13731
-AC Picchia,A,Andrea Belotti,Torino,Sassuolo,1.020118
-AC Picchia,A,Thomas Henry,Inter,Venezia,0.58872837
-AC Picchia,A,Daniele Verde,Spezia,Sampdoria,0.5624355
-AC Picchia,A,Jeremie Boga,Torino,Sassuolo,0.4678738
+ssc mozzarella,D,Mário Rui,Napoli,Salernitana,0.4376358
+ssc mozzarella,D,Chris Smalling,Empoli,Roma,0.31227422
+ssc mozzarella,D,Ibañez,Empoli,Roma,0.22313726
+ssc mozzarella,D,Fikayo Tomori,AC Milan,Juventus,0.1230098
+ssc mozzarella,C,Henrikh Mkhitaryan,Empoli,Roma,0.9266317
+ssc mozzarella,C,Federico Chiesa,AC Milan,Juventus,0.84339887
+ssc mozzarella,C,Fabián,Napoli,Salernitana,0.6357001
+ssc mozzarella,C,Lucas Torreira,Cagliari,Fiorentina,0.3044609
+ssc mozzarella,C,Maxime Lopez,Torino,Sassuolo,0.12598231
+ssc mozzarella,A,Victor Osimhen,Napoli,Salernitana,2.841581
+ssc mozzarella,A,Matteo Politano,Napoli,Salernitana,1.0097755
+ssc mozzarella,A,Leonardo Pavoletti,Cagliari,Fiorentina,0.30299237
+ssc mozzarella,A,Franck Ribéry,Napoli,Salernitana,0.23057327
+ssc mozzarella,A,Federico Bonazzoli,Napoli,Salernitana,0.19838884
+Scansuolo ,D,Kalidou Koulibaly,Napoli,Salernitana,0.3666365
+Scansuolo ,D,Mergim Vojvoda,Torino,Sassuolo,0.35411367
+Scansuolo ,D,Rick Karsdorp,Empoli,Roma,0.22903831
+Scansuolo ,D,Gabriele Zappa,Cagliari,Fiorentina,0.0963953
+Scansuolo ,C,Brahim Diaz,AC Milan,Juventus,0.5339027
+Scansuolo ,C,Junior Messias,AC Milan,Juventus,0.38768864
+Scansuolo ,C,Hamed Junior Traore,Torino,Sassuolo,0.19401819
+Scansuolo ,A,Gianluca Scamacca,Torino,Sassuolo,1.235736
+Scansuolo ,A,João Pedro,Cagliari,Fiorentina,0.9034744
+Scansuolo ,A,Rafael Leão,AC Milan,Juventus,0.7747714
+Scansuolo ,A,Simy,Napoli,Salernitana,0.6954355
+Rione Monti,D,Wilfried Stephane Singo,Torino,Sassuolo,0.4567893
+Rione Monti,D,Cristiano Biraghi,Cagliari,Fiorentina,0.45353407
+Rione Monti,D,Simone Bastoni,Spezia,Sampdoria,0.35125282
+Rione Monti,D,Bremer,Torino,Sassuolo,0.31778646
+Rione Monti,D,Matias Viña,Empoli,Roma,0.22335307
+Rione Monti,D,Gianluca Mancini,Empoli,Roma,0.19944765
+Rione Monti,C,Lorenzo Pellegrini,Empoli,Roma,1.7358098
+Rione Monti,C,Nicolo Zaniolo,Empoli,Roma,1.1186455
+Rione Monti,C,Davide Frattesi,Torino,Sassuolo,0.50829864
+Rione Monti,C,Mikkel Damsgaard,Spezia,Sampdoria,0.3814708
+Rione Monti,C,Viktor Kovalenko,Spezia,Sampdoria,0.21642454
+Rione Monti,C,Kevin Strootman,Cagliari,Fiorentina,0.12627211
+Rione Monti,A,Zlatan Ibrahimovic,AC Milan,Juventus,1.568844
+Rione Monti,A,Álvaro Morata,AC Milan,Juventus,0.88566476
+Rione Monti,A,Eldor Shomurodov,Empoli,Roma,0.81505173
+Rione Monti,A,Giacomo Raspadori,Torino,Sassuolo,0.7274623
+MaiNa Joya_v2.0,D,Theo Hernández,AC Milan,Juventus,0.38406518
+MaiNa Joya_v2.0,D,Nikola Milenkovic,Cagliari,Fiorentina,0.22756502
+MaiNa Joya_v2.0,D,Petar Stojanovic,Empoli,Roma,0.14432022
+MaiNa Joya_v2.0,D,Diego Godín,Cagliari,Fiorentina,0.117395446
+MaiNa Joya_v2.0,D,Gianmarco Ferrari,Torino,Sassuolo,0.11583654
+MaiNa Joya_v2.0,D,Matteo Ruggeri,Napoli,Salernitana,0.09147124
+MaiNa Joya_v2.0,C,Jordan Veretout,Empoli,Roma,0.8520028
+MaiNa Joya_v2.0,C,Nedim Bajrami,Empoli,Roma,0.723424
+MaiNa Joya_v2.0,C,Filip Djuricic,Torino,Sassuolo,0.6519454
+MaiNa Joya_v2.0,C,Tommaso Pobega,Torino,Sassuolo,0.61422247
+MaiNa Joya_v2.0,C,Youssef Maleh,Cagliari,Fiorentina,0.48000926
+MaiNa Joya_v2.0,A,Lorenzo Insigne,Napoli,Salernitana,2.0879505
+MaiNa Joya_v2.0,A,Tammy Abraham,Empoli,Roma,2.0528214
+MaiNa Joya_v2.0,A,Josip Brekalo,Torino,Sassuolo,0.9093608
+MaiNa Joya_v2.0,A,Patrick Cutrone,Empoli,Roma,0.79538
+MEZAFE,D,Leonardo Bonucci,AC Milan,Juventus,0.26073384
+MEZAFE,D,Matija Nastasic,Cagliari,Fiorentina,0.14664496
+MEZAFE,D,Danilo,AC Milan,Juventus,0.12400283
+MEZAFE,D,Giorgio Chiellini,AC Milan,Juventus,0.103733666
+MEZAFE,C,Simone Verdi,Torino,Sassuolo,0.52993083
+MEZAFE,C,Alexis Saelemaekers,AC Milan,Juventus,0.46603757
+MEZAFE,C,Bryan Cristante,Empoli,Roma,0.38061848
+MEZAFE,C,Weston McKennie,AC Milan,Juventus,0.34555808
+MEZAFE,C,Sandro Tonali,AC Milan,Juventus,0.28234813
+MEZAFE,C,Gaetano Castrovilli,Cagliari,Fiorentina,0.24080628
+MEZAFE,A,Paulo Dybala,AC Milan,Juventus,1.1564357
+MEZAFE,A,Fabio Quagliarella,Spezia,Sampdoria,1.0267826
+MEZAFE,A,Ante Rebic,AC Milan,Juventus,0.33225578
+MEZAFE,A,Moise Kean,AC Milan,Juventus,0.2476354
+Beverly INPS,D,Juan Cuadrado,AC Milan,Juventus,0.30304924
+Beverly INPS,D,Giovanni Di Lorenzo,Napoli,Salernitana,0.28852633
+Beverly INPS,D,Alessio Romagnoli,AC Milan,Juventus,0.14774475
+Beverly INPS,D,Simon Kjaer,AC Milan,Juventus,0.12476866
+Beverly INPS,C,Piotr Zielinski,Napoli,Salernitana,1.3393662
+Beverly INPS,C,Dennis Praet,Torino,Sassuolo,0.7462018
+Beverly INPS,C,José Callejón,Cagliari,Fiorentina,0.6757222
+Beverly INPS,C,Eljif Elmas,Napoli,Salernitana,0.51189286
+Beverly INPS,C,Franck Kessié,AC Milan,Juventus,0.3929525
+Beverly INPS,C,Dejan Kulusevski,AC Milan,Juventus,0.31045
+Beverly INPS,A,Dries Mertens,Napoli,Salernitana,1.921598
+Beverly INPS,A,Nicolás González,Cagliari,Fiorentina,1.1511587
+Beverly INPS,A,Domenico Berardi,Torino,Sassuolo,0.983985
+Beverly INPS,A,M&#039;Bala Nzola,Spezia,Sampdoria,0.9773636
+AI sereje ja dejeDe jebe tu de jebere,D,Amir Rrahmani,Napoli,Salernitana,0.3331651
+AI sereje ja dejeDe jebe tu de jebere,D,Kostas Manolas,Napoli,Salernitana,0.24067934
+AI sereje ja dejeDe jebe tu de jebere,D,Tommaso Augello,Spezia,Sampdoria,0.19156756
+AI sereje ja dejeDe jebe tu de jebere,C,Antonio Candreva,Spezia,Sampdoria,0.87948793
+AI sereje ja dejeDe jebe tu de jebere,C,Giacomo Bonaventura,Cagliari,Fiorentina,0.6431328
+AI sereje ja dejeDe jebe tu de jebere,C,Giulio Maggiore,Spezia,Sampdoria,0.38480017
+AI sereje ja dejeDe jebe tu de jebere,C,Manuel Locatelli,AC Milan,Juventus,0.2625042
+AI sereje ja dejeDe jebe tu de jebere,A,Dusan Vlahovic,Cagliari,Fiorentina,2.7604342
+AI sereje ja dejeDe jebe tu de jebere,A,Francesco Caputo,Spezia,Sampdoria,1.128565
+AI sereje ja dejeDe jebe tu de jebere,A,Hirving Lozano,Napoli,Salernitana,1.0457959
+AI sereje ja dejeDe jebe tu de jebere,A,Leonardo Mancuso,Empoli,Roma,0.65441716
+AC Picchia,D,Davide Calabria,AC Milan,Juventus,0.45284882
+AC Picchia,D,Álvaro Odriozola,Cagliari,Fiorentina,0.28170326
+AC Picchia,D,Alessandro Florenzi,AC Milan,Juventus,0.28162798
+AC Picchia,D,Alex Sandro,AC Milan,Juventus,0.20641759
+AC Picchia,D,Matthijs de Ligt,AC Milan,Juventus,0.18057077
+AC Picchia,D,Dalbert,Cagliari,Fiorentina,0.13682008
+AC Picchia,C,Morten Thorsby,Spezia,Sampdoria,0.34417894
+AC Picchia,C,Razvan Marin,Cagliari,Fiorentina,0.25676227
+AC Picchia,C,Nahitan Nández,Cagliari,Fiorentina,0.23140492
+AC Picchia,A,Olivier Giroud,AC Milan,Juventus,1.2210437
+AC Picchia,A,Andrea Belotti,Torino,Sassuolo,1.1390948
+AC Picchia,A,Daniele Verde,Spezia,Sampdoria,0.59050524
+AC Picchia,A,Jeremie Boga,Torino,Sassuolo,0.4447855
