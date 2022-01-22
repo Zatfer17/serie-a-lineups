@@ -1,0 +1,17 @@
+id,isResult,side,h,a,goals,xG,datetime
+16982,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-23 19:45:00
+16990,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-06 02:00:00
+16996,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-13 02:00:00
+17010,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 02:00:00
+17017,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 02:00:00
+17031,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-06 02:00:00
+17042,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-13 02:00:00
+17051,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-20 02:00:00
+17059,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 01:00:00
+17067,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 01:00:00
+17079,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 01:00:00
+17093,False,a,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 01:00:00
+17099,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 01:00:00
+17107,False,a,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 01:00:00
+17120,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 01:00:00
+17127,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 01:00:00

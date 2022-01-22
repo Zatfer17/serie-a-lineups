@@ -1,0 +1,18 @@
+id,isResult,side,h,a,goals,xG,datetime
+16948,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 19:45:00
+16976,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-23 11:30:00
+16988,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-06 02:00:00
+17004,False,a,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-13 02:00:00
+17008,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 02:00:00
+17023,False,a,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 02:00:00
+17028,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-06 02:00:00
+17037,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-13 02:00:00
+17050,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-20 02:00:00
+17057,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 01:00:00
+17071,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 01:00:00
+17078,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 01:00:00
+17092,False,a,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 01:00:00
+17100,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 01:00:00
+17106,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 01:00:00
+17124,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 01:00:00
+17127,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 01:00:00

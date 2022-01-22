@@ -41,8 +41,6 @@
 # league stats
 #   (hxG)
 #   (axG)
-
-#TODO
 #   homeOdds
 #   awayOdds
 #   drawOdds

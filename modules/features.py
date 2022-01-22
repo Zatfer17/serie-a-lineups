@@ -35,7 +35,8 @@ def get_team_stats(team_name, season, date=None, opponent=False):
 
     results = pd.read_csv('data/understat/match_stats/{}/{}.csv'.format(season, team_name), parse_dates=['datetime'])
     
-    date = datetime.strptime(date, '%Y-%m-%d').date()
+    if date:
+        date = datetime.strptime(date, '%Y-%m-%d').date()
     
     results['date'] = results['datetime'].dt.date
     results = results[results['date'] < date] if date else results
@@ -73,7 +74,8 @@ def get_player_stats(player_id, season, date=None):
     
     matches = pd.read_csv('data/understat/player_stats/{}/{}.csv'.format(season, player_id), parse_dates=['date'])
     
-    date = datetime.strptime(date, '%Y-%m-%d').date()
+    if date:
+        date = datetime.strptime(date, '%Y-%m-%d').date()
     
     matches['date'] = matches['date'].dt.date
     matches = matches[matches['date'] < date] if date else matches

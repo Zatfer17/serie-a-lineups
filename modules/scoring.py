@@ -3,9 +3,12 @@ import pickle
 import aiohttp
 import asyncio
 import nest_asyncio
+import json
 
+from tqdm import trange, tqdm
+from datetime import datetime
 from understat import Understat
-from features import get_team_stats, get_player_stats
+from modules.features import get_team_stats, get_player_stats
 
 def routine(functionality):
     loop = asyncio.get_event_loop()
@@ -24,16 +27,17 @@ async def get_team_fixtures(team, season, date=None):
 
     fixtures = pd.read_csv('data/understat/team_fixtures/{}/{}.csv'.format(season, team), parse_dates=['datetime'])
     
-    date = datetime.strptime(date, '%Y-%m-%d').date()
+    if date:
+        date = datetime.strptime(date, '%Y-%m-%d').date()
     
     fixtures['team']      = team
-    fixtures['home_team'] = fixtures['h'].apply(lambda x: x.get('title'))
-    fixtures['away_team'] = fixtures['a'].apply(lambda x: x.get('title'))
+    fixtures['home_team'] = fixtures['h'].apply(lambda x: json.loads(x.replace('\'', '"'))['title'])
+    fixtures['away_team'] = fixtures['a'].apply(lambda x: json.loads(x.replace('\'', '"'))['title'])
     fixtures['season']    = 2021
-    fixtures['month']     = fixtures['date'].dt.month.astype(int)
-    fixtures['day']       = fixtures['date'].dt.day.astype(int)
-    fixtures['hour']      = fixtures['date'].dt.hour.astype(int)
-    fixtures['week_day']  = fixtures['date'].dt.weekday.astype(int)
+    fixtures['month']     = fixtures['datetime'].dt.month.astype(int)
+    fixtures['day']       = fixtures['datetime'].dt.day.astype(int)
+    fixtures['hour']      = fixtures['datetime'].dt.hour.astype(int)
+    fixtures['week_day']  = fixtures['datetime'].dt.weekday.astype(int)
     fixtures['date']      = fixtures['datetime'].dt.date
     
     fixtures = fixtures[fixtures['date'] >= date] if date else fixtures[fixtures['date'] >= pd.Timestamp('today').date()]
@@ -64,25 +68,27 @@ async def get_player_id(player):
     
 async def get_player_position(player_id):
     try:
-        matches = pd.read_csv('data/player_stats/{}/{}.csv'.format(2021, player_id))
+        matches = pd.read_csv('data/understat/player_stats/{}/{}.csv'.format(2021, player_id))
         return matches['position'].mode().tolist()[0]
     except FileNotFoundError:
         return 'Sub'
     
 def get_scoring_set(league_name):
     
-    league = pd.read_csv('data/leagues/{}.csv'.format(league_name))
+    league = pd.read_csv('data/leghe_fantacalcio/leagues/{}.csv'.format(league_name))
     league = league[league['role'] != 'P']
     league = league.reset_index(drop=True)
     league = league[['fanta_team', 'role', 'team', 'player']]
     
     fixtures   = None
     player_ids = []
-    positions = []
+    positions  = []
     teams      = league['team'].tolist()
     players    = league['player'].tolist()
+    
+    routine(save_team_fixtures(teams, 2021))
 
-    for team, player in zip(teams, players):
+    for i, team, player in zip(trange(len(teams)), teams, players):
         
         to_add = routine(get_team_fixtures(team, 2021))
         fixtures = fixtures.append(to_add, ignore_index=True) if fixtures is not None else to_add
@@ -136,7 +142,7 @@ def get_features(scoring_set, league_name):
     friendly = None
     enemy    = None
     
-    for player_id, friendly_team, enemy_team, date in zip(player_ids, friendly_teams, enemy_teams, dates):
+    for i, player_id, friendly_team, enemy_team, date in zip(trange(len(player_ids)), player_ids, friendly_teams, enemy_teams, dates):
             
             player_stats        = get_player_stats(player_id, 2021)
             friendly_team_stats = get_team_stats(friendly_team, 2021)
@@ -186,14 +192,12 @@ def get_features(scoring_set, league_name):
         'xGC90OT'
     ]]
 
-def score(X, league_name):
+def score(X, scoring_set, league_name):
     
     with open('model/model.pkl', 'rb') as f:
         model = pickle.load(f)
         
-    y = model.predict(X)
-    scoring_set['expected_bonus'] = y
-    scoring_set.head()
+    scoring_set['expected_bonus'] = model.predict(X)
     
     final = scoring_set[[
         'fanta_team',
@@ -201,11 +205,10 @@ def score(X, league_name):
         'player',
         'home_team',
         'away_team',
-        'expected_bonus']].sort_values(by=['fanta_team', 'role', 'expected_bonus'], ascending=False)
+        'expected_bonus']]
     
-    filename = '{}_{}_{}_{}'.format(
-        league_name,
-        pd.Timestamp('today').day,
-        pd.Timestamp('today').month,
-        pd.Timestamp('today').year)
+    final = final.sort_values(by=['fanta_team', 'role', 'expected_bonus'], ascending=False)
+    
+    filename = '{}_{}_{}_{}'.format(league_name, pd.Timestamp('today').day, pd.Timestamp('today').month, pd.Timestamp('today').year)
+    
     final.to_csv('data/outputs/predictions/{}.csv'.format(filename), index=False)
