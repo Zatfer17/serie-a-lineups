@@ -118,14 +118,14 @@ def get_features(seasons):
         home_team_list     = population['home_team'].to_list()
         away_team_list     = population['away_team'].to_list()
         is_home_list       = population['is_home'].to_list()
-        player_ids         = population['player_id'].tolist()
-        dates              = population['date'].tolist()
+        player_ids         = population['player_id'].to_list()
+        dates              = population['date'].to_list()
 
         friendly_teams     = [x[1-x[2]] for x in zip(home_team_list, away_team_list, is_home_list)]
         enemy_teams        = [x[x[2]] for x in zip(home_team_list, away_team_list, is_home_list)]
 
         population['team'] = friendly_teams
-        teams              = population['team'].tolist()
+        teams              = population['team'].to_list()
 
         routine(save_team_stats(teams, season))
         routine(save_player_stats(player_ids, season))

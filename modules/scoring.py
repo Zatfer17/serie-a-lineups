@@ -73,6 +73,30 @@ async def get_player_position(player_id):
         return matches['position'].mode().tolist()[0]
     except FileNotFoundError:
         return 'Sub'
+
+async def get_player_bonus(player, season, date=None):
+    async with aiohttp.ClientSession() as session:
+        understat = Understat(session)
+        matches = await understat.get_player_matches(player, season=str(season))
+    matches = pd.DataFrame(matches)
+    matches['date'] = matches['date'].dt.date
+
+    if date:
+        date = datetime.strptime(date, '%Y-%m-%d').date()
+
+    matches = matches[matches['date'] == date] if date else matches.head(1)
+
+    if len(matches) == 1:
+
+        goals   = matches['goals'].astype(float).to_list()[0]
+        assists = matches['assists'].astype(float).to_list()[0]
+
+    else:
+
+        goals   = 0
+        assists = 0
+
+    return 3*goals + assists
     
 def get_scoring_set(league_name):
     
@@ -202,7 +226,7 @@ def get_features(scoring_set, league_name):
         'xGC90OT'
     ]]
 
-def score(X, scoring_set, league_name, save=True):
+def score(X, scoring_set, league_name, gameweek, save=True):
     
     with open('model/model.pkl', 'rb') as f:
         model = pickle.load(f)
@@ -215,13 +239,39 @@ def score(X, scoring_set, league_name, save=True):
         'player',
         'home_team',
         'away_team',
+        'date',
         'expected_bonus']]
     
     final = final.sort_values(by=['fanta_team', 'role', 'expected_bonus'], ascending=False)
     
-    filename = '{}_{}_{}_{}'.format(league_name, pd.Timestamp('today').day, pd.Timestamp('today').month, pd.Timestamp('today').year)
-    
     if save:
-        final.to_csv('data/outputs/predictions/{}.csv'.format(filename), index=False)
+        final.to_csv('data/outputs/prediction/{}/gameweek_{}.csv'.format(league_name, gameweek), index=False)
     
     return final
+
+def validate(league_name, gameweek):
+
+    predictions = pd.read_csv('data/outputs/prediction/{}/gameweek_{}.csv'.format(league_name, gameweek))
+
+    players = predictions['player'].to_list()
+    dates   = predictions['date'].to_list()
+
+    actual_bonuses = []
+
+    for player, date in zip(players, dates):
+        to_add = routine(get_player_bonus(player, 2021, date))
+        actual_bonuses.append(to_add)
+
+    actual_bonuses = pd.DataFrame(data=actual_bonuses, columns=['true_bonus'])
+
+    predictions    = predictions.reset_index(drop=True)
+    actual_bonuses = actual_bonuses.reset_index(drop=True)
+
+    validation = predictions.join(actual_bonuses)
+
+    validation['error']      = validation['expected_bonus'] - validation['true_bonus']
+    validation['error_type'] = validation['error'].apply(lambda x: 'overestimated' if x >= 0 else 'underestimated')
+
+    validation.to_csv('data/outputs/validation/{}/gameweek_{}.csv'.format(league_name, gameweek))
+
+
