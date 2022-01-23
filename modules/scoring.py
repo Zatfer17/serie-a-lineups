@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import pickle
 import aiohttp
 import asyncio
@@ -74,11 +75,14 @@ async def get_player_position(player_id):
     except FileNotFoundError:
         return 'Sub'
 
-async def get_player_bonus(player, season, date=None):
+async def get_player_bonus(player_id, season, date=None):
     async with aiohttp.ClientSession() as session:
         understat = Understat(session)
-        matches = await understat.get_player_matches(player, season=str(season))
+        matches = await understat.get_player_matches(player_id, season=str(season))
+        
     matches = pd.DataFrame(matches)
+    
+    matches['date'] = pd.to_datetime(matches['date'])
     matches['date'] = matches['date'].dt.date
 
     if date:
@@ -90,13 +94,14 @@ async def get_player_bonus(player, season, date=None):
 
         goals   = matches['goals'].astype(float).to_list()[0]
         assists = matches['assists'].astype(float).to_list()[0]
+        
+        return 3*goals + assists
 
     else:
 
-        goals   = 0
-        assists = 0
+        return np.nan
 
-    return 3*goals + assists
+    
     
 def get_scoring_set(league_name):
     
@@ -258,8 +263,9 @@ def validate(league_name, gameweek):
 
     actual_bonuses = []
 
-    for player, date in zip(players, dates):
-        to_add = routine(get_player_bonus(player, 2021, date))
+    for i, player, date in zip(trange(len(players)), players, dates):
+        player_id = routine(get_player_id(player))
+        to_add = routine(get_player_bonus(player_id, 2021, date))
         actual_bonuses.append(to_add)
 
     actual_bonuses = pd.DataFrame(data=actual_bonuses, columns=['true_bonus'])
@@ -268,10 +274,11 @@ def validate(league_name, gameweek):
     actual_bonuses = actual_bonuses.reset_index(drop=True)
 
     validation = predictions.join(actual_bonuses)
+    validation = validation.dropna()
 
     validation['error']      = validation['expected_bonus'] - validation['true_bonus']
     validation['error_type'] = validation['error'].apply(lambda x: 'overestimated' if x >= 0 else 'underestimated')
 
     validation.to_csv('data/outputs/validation/{}/gameweek_{}.csv'.format(league_name, gameweek))
-
-
+    
+    return validation
