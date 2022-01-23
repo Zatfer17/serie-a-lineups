@@ -1,8 +1,17 @@
 {
-    "seasons": [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+    "seasons": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+    ],
     "league_name": "fanta-camplus-citta-studi",
     "gameweek": {
-        "current": 23,
-        "past": 22
+        "current": 24,
+        "past": 23
     }
 }
