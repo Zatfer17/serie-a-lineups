@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-16984,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-23 14:00:00
 16992,False,a,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-06 02:00:00
 17004,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-13 02:00:00
 17006,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 02:00:00

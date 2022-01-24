@@ -141,6 +141,9 @@ def get_scoring_set(league_name):
     
     league['is_home'] = (league['team'] == league['home_team'])
     league['is_home'] = league['is_home'].astype(int)
+
+    league['opponent'] = league['home_team']
+    league.loc[league['is_home'] == 1, 'opponent'] = league['away_team']
     
     return league[[
         'fanta_team',
@@ -149,6 +152,7 @@ def get_scoring_set(league_name):
         'player_id',
         'player',
         'team',
+        'opponent',
         'home_team',
         'away_team',
         'is_home',
@@ -200,17 +204,18 @@ def get_features(scoring_set, league_name):
         'role',
         'player_id',
         'player',
-        'team',
 
-        'home_team',
-        'away_team',
+        'team',
+        'opponent',
+        #'home_team',
+        #'away_team',
         'is_home',
 
-        'season',
-        'month',
-        'day',
-        'hour',
-        'week_day',
+        #'season',
+        #'month',
+        #'day',
+        #'hour',
+        #'week_day',
 
         'position',
         'G90P',
@@ -242,8 +247,8 @@ def score(X, scoring_set, league_name, gameweek, save=True):
         'fanta_team',
         'role',
         'player',
-        'home_team',
-        'away_team',
+        'team',
+        'opponent',
         'date',
         'expected_bonus']]
     

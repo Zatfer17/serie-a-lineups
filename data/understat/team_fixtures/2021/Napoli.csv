@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-16983,False,h,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-23 14:00:00
 16995,False,a,"{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-06 02:00:00
 17002,False,h,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-13 02:00:00
 17007,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 02:00:00
