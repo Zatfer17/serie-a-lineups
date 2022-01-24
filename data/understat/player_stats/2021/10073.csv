@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Cagliari,Fiorentina,1,1,2022-01-23,16976,2021,510058,0,0,0,0,0,0.031281232833862305,0.031281232833862305
 0,0,0,8,Sub,Inter,Cagliari,4,0,2021-12-12,16919,2021,502761,0,0,0,0,0,0,0
 0,0,0,17,Sub,Fiorentina,Cagliari,3,0,2021-10-24,16838,2021,490503,0,0,0,0,0,0,0

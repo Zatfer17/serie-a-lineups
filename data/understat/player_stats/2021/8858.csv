@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Empoli,Roma,2,4,2022-01-23,16977,2021,510605,0,0,0,0,0,0.02038021944463253,0.02038021944463253
 0,0,0,90,GK,Venezia,Empoli,1,1,2022-01-16,16975,2021,508510,0,0,0,0,0,0,0
 0,0,0,90,GK,Empoli,Sassuolo,1,5,2022-01-09,16957,2021,507137,0,0,0,0,0,0,0
 0,0,0,90,GK,Lazio,Empoli,3,3,2022-01-06,16950,2021,506378,0,0,0,0,0,0.6984848976135254,0.6984848976135254

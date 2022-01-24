@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Cagliari,Fiorentina,1,1,2022-01-23,16976,2021,510055,0,0,0,0,0,0.031281232833862305,0.031281232833862305
 0,0,0,90,GK,Verona,Cagliari,0,0,2021-11-30,16900,2021,498683,0,0,0,0,0,0,0
 0,0,0,90,GK,AC Milan,Cagliari,4,1,2021-08-29,16774,2021,479913,0,0,0,0,0,0,0

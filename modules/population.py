@@ -82,7 +82,7 @@ def get_population(seasons):
         for i, match_id in zip(trange(len(match_ids)), match_ids):
             players = routine(get_match_players(match_id))
             to_add = df.merge(players, on='match_id')
-            season_data = season_data.append(to_add, ignore_index=True) if season_data is not None else to_add
+            season_data = pd.concat([season_data, to_add], ignore_index=True) if season_data is not None else to_add
         season_data = season_data[[
             'match_id',
             'date',

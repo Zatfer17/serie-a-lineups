@@ -140,9 +140,9 @@ def get_features(seasons):
             friendly_team_stats = get_team_stats(friendly_team, season, date)
             enemy_team_stats    = get_team_stats(enemy_team, season, date, opponent=True)
 
-            players             = players.append(player_stats, ignore_index=True) if players is not None else player_stats
-            friendly            = friendly.append(friendly_team_stats, ignore_index=True) if friendly is not None else friendly_team_stats
-            enemy               = enemy.append(enemy_team_stats, ignore_index=True) if enemy is not None else enemy_team_stats
+            players             = pd.concat([players, player_stats], ignore_index=True) if players is not None else player_stats
+            friendly            = pd.concat([friendly, friendly_team_stats], ignore_index=True) if friendly is not None else friendly_team_stats
+            enemy               = pd.concat([enemy, enemy_team_stats], ignore_index=True) if enemy is not None else enemy_team_stats
         
         population = population.reset_index(drop=True)
         players    = players.reset_index(drop=True)
@@ -151,6 +151,10 @@ def get_features(seasons):
 
         dataset = population.join([players, friendly, enemy])
         dataset = dataset.fillna(0)
+        
+        dataset['opponent'] = dataset['home_team']
+        dataset.loc[dataset['is_home'] == 1, 'opponent'] = dataset['away_team']
+        
         dataset.to_csv('data/outputs/raw/{}.csv'.format(season), index=False)
         
 def get_dataset(seasons):
@@ -158,24 +162,25 @@ def get_dataset(seasons):
     df = None
     for season in seasons:
         to_add = pd.read_csv('data/outputs/raw/{}.csv'.format(season))
-        df = df.append(to_add, ignore_index=True) if df is not None else to_add
+        df = pd.concat([df, to_add], ignore_index=True) if df is not None else to_add
         df = df[df.position != 'GK']
         df = df[[
             'match_id',
             'date',
             'player_id',
             'player',
-            'team',
-
             'home_team',
             'away_team',
+            
+            'team',
+            'opponent',            
             'is_home',
 
-            'season',
-            'month',
-            'day',
-            'hour',
-            'week_day',
+            #'season',
+            #'month',
+            #'day',
+            #'hour',
+            #'week_day',
 
             'position',
             'G90P',

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Brest,Lille,2,0,2022-01-22,18034,2021,509824,0,0,0,0,0,0,0
 0,0,0,18,Sub,Inter,Cagliari,4,0,2021-12-12,16919,2021,502744,0.03613342344760895,0,1,0,0,0,0
 0,0,0,1,Sub,Inter,Napoli,3,2,2021-11-21,16881,2021,496700,0,0,0,0,0,0,0
 0,0,0,1,Sub,Inter,Atalanta,2,2,2021-09-25,16808,2021,484891,0,0,0,0,0,0,0

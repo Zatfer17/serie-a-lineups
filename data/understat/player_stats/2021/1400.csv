@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Spezia,Sampdoria,1,0,2022-01-23,16984,2021,510258,0,0,0,0,0,0,0
 0,0,0,1,Sub,Sampdoria,Torino,1,2,2022-01-15,16973,2021,507916,0,0,0,0,0,0,0
 0,0,0,12,Sub,Napoli,Sampdoria,1,0,2022-01-09,16961,2021,507342,0,0,0,0,0,0.06725022196769714,0.06725022196769714
 0,0,0,90,DL,Sampdoria,Cagliari,1,2,2022-01-06,16953,2021,506311,0,0,0,0,0,0,0
