@@ -113,6 +113,8 @@ def get_player_stats(player_id, season, date=None):
             return pd.DataFrame(data=[[0., 0., 0., 0., 0., 0.]], columns=columns)
     
     except FileNotFoundError:
+
+        columns = ['G90P', 'A90P', 's90P', 'xG90P', 'xA90P', 'time']
         
         return pd.DataFrame(data=[[0., 0., 0., 0., 0., 0.]], columns=columns)
     
