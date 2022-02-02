@@ -72,41 +72,47 @@ def get_team_stats(team_name, season, date=None, opponent=False):
 
 def get_player_stats(player_id, season, date=None):
     
-    matches = pd.read_csv('data/understat/player_stats/{}/{}.csv'.format(season, player_id), parse_dates=['date'])
+    try:
     
-    if date:
-        date = datetime.strptime(date, '%Y-%m-%d').date()
-    
-    matches['date'] = matches['date'].dt.date
-    matches = matches[matches['date'] < date] if date else matches
+        matches = pd.read_csv('data/understat/player_stats/{}/{}.csv'.format(season, player_id), parse_dates=['date'])
 
-    matches['time'] = matches['time'].astype(float)
-    matches = matches[matches['time'] >= 15]
+        if date:
+            date = datetime.strptime(date, '%Y-%m-%d').date()
+
+        matches['date'] = matches['date'].dt.date
+        matches = matches[matches['date'] < date] if date else matches
+
+        matches['time'] = matches['time'].astype(float)
+        matches = matches[matches['time'] >= 15]
+
+        matches = matches[[
+                'goals',
+                'assists',
+                'shots',
+                'xG',
+                'xA',
+                'time',
+            ]]
+
+        time = matches['time'].sum()
+
+        columns = ['G90P', 'A90P', 's90P', 'xG90P', 'xA90P', 'time']
+
+        if time > 0:
+
+            G90P  = matches['goals'].astype(float).sum() * 90 / time
+            A90P  = matches['assists'].astype(float).sum() * 90 / time
+            s90P  = matches['shots'].astype(float).sum() * 90 / time
+            xG90P = matches['xG'].astype(float).sum() * 90 / time
+            xA90P = matches['xA'].astype(float).sum() * 90 / time
+
+            return pd.DataFrame(data=[[G90P, A90P, s90P, xG90P, xA90P, time]], columns=columns)
+
+        else:
+
+            return pd.DataFrame(data=[[0., 0., 0., 0., 0., 0.]], columns=columns)
     
-    matches = matches[[
-            'goals',
-            'assists',
-            'shots',
-            'xG',
-            'xA',
-            'time',
-        ]]
-    
-    time = matches['time'].sum()
-    
-    columns = ['G90P', 'A90P', 's90P', 'xG90P', 'xA90P', 'time']
-    
-    if time > 0:
-        
-        G90P  = matches['goals'].astype(float).sum() * 90 / time
-        A90P  = matches['assists'].astype(float).sum() * 90 / time
-        s90P  = matches['shots'].astype(float).sum() * 90 / time
-        xG90P = matches['xG'].astype(float).sum() * 90 / time
-        xA90P = matches['xA'].astype(float).sum() * 90 / time
-        
-        return pd.DataFrame(data=[[G90P, A90P, s90P, xG90P, xA90P, time]], columns=columns)
-    
-    else:
+    except FileNotFoundError:
         
         return pd.DataFrame(data=[[0., 0., 0., 0., 0., 0.]], columns=columns)
     
