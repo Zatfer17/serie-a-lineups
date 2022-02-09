@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-16990,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-06 19:45:00
 16996,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-13 19:45:00
 17010,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-18 19:45:00
 17017,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00

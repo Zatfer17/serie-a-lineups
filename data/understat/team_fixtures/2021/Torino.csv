@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
 16946,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 13:30:00
-16994,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-06 17:00:00
 17005,False,h,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-12 19:45:00
 17010,False,a,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-18 19:45:00
 17025,False,h,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00

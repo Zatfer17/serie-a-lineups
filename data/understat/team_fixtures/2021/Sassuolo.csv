@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-16993,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-06 14:00:00
 17003,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-13 17:00:00
 17009,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 17:00:00
 17023,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00
