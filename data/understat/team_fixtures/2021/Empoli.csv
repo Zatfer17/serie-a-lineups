@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-16997,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-13 14:00:00
 17013,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-19 14:00:00
 17017,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00
 17029,False,a,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-06 00:00:00

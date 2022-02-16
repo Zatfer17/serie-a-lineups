@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
 16947,False,h,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 09:30:00
-17000,False,a,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-12 14:00:00
 17006,False,h,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-21 20:00:00
 17022,False,a,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00
 17026,False,h,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-06 00:00:00

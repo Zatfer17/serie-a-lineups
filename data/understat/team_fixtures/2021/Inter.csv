@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
 16947,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 09:30:00
-17002,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-12 17:00:00
 17009,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 17:00:00
 17018,False,a,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00
 17030,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-06 00:00:00
