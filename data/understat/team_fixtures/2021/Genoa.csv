@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17015,False,a,"{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 14:00:00
 17018,False,h,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00
 17029,False,h,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-06 00:00:00
 17036,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-13 00:00:00

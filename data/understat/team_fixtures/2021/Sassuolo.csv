@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17009,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-20 17:00:00
 17023,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00
 17035,False,a,"{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-06 00:00:00
 17041,False,a,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-13 00:00:00
