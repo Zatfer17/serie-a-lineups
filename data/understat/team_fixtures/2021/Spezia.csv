@@ -1,13 +1,11 @@
 id,isResult,side,h,a,goals,xG,datetime
-17024,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-02-27 14:00:00
-17031,False,a,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-06 00:00:00
-17043,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-13 00:00:00
-17054,False,a,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-20 00:00:00
-17064,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-02 23:00:00
-17068,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-09 23:00:00
-17084,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-15 23:00:00
-17094,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-23 23:00:00
-17104,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-30 23:00:00
-17113,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-07 23:00:00
-17125,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-14 23:00:00
-17133,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-21 23:00:00
+17043,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-12 14:00:00
+17054,False,a,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-18 17:45:00
+17064,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 02:00:00
+17068,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 02:00:00
+17084,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 02:00:00
+17094,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 02:00:00
+17104,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00
+17113,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 02:00:00
+17125,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 02:00:00
+17133,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 02:00:00

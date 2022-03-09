@@ -1,0 +1,53 @@
+,fanta_team,role,player,team,opponent,date,expected_bonus,true_bonus,error,error_type
+1,ssc mozzarella,D,Mário Rui,Napoli,Lazio,2022-02-27,0.3547911,0.0,0.3547911,overestimated
+3,ssc mozzarella,D,Chris Smalling,Roma,Spezia,2022-02-27,0.24241996,0.0,0.24241996,overestimated
+6,ssc mozzarella,D,Luiz Felipe,Lazio,Napoli,2022-02-27,0.13751964,0.0,0.13751964,overestimated
+9,ssc mozzarella,C,Henrikh Mkhitaryan,Roma,Spezia,2022-02-27,0.83756155,0.0,0.83756155,overestimated
+10,ssc mozzarella,C,Fabián,Napoli,Lazio,2022-02-27,0.41836378,3.0,-2.58163622,underestimated
+13,ssc mozzarella,C,Stanislav Lobotka,Napoli,Lazio,2022-02-27,0.20011906,0.0,0.20011906,overestimated
+16,ssc mozzarella,A,Victor Osimhen,Napoli,Lazio,2022-02-27,1.322129,0.0,1.322129,overestimated
+18,ssc mozzarella,A,Gianluca Caprari,Verona,Venezia,2022-02-27,1.0569603,0.0,1.0569603,overestimated
+20,ssc mozzarella,A,Matteo Politano,Napoli,Lazio,2022-02-27,0.3844156,0.0,0.3844156,overestimated
+21,ssc mozzarella,A,Leonardo Pavoletti,Cagliari,Torino,2022-02-27,0.3383399,1.0,-0.6616601,underestimated
+23,Scansuolo ,D,Mergim Vojvoda,Torino,Cagliari,2022-02-27,0.40293804,0.0,0.40293804,overestimated
+24,Scansuolo ,D,Rick Karsdorp,Roma,Spezia,2022-02-27,0.28665033,0.0,0.28665033,overestimated
+25,Scansuolo ,D,Kalidou Koulibaly,Napoli,Lazio,2022-02-27,0.25912216,0.0,0.25912216,overestimated
+26,Scansuolo ,D,Elseid Hysaj,Lazio,Napoli,2022-02-27,0.13455287,0.0,0.13455287,overestimated
+32,Scansuolo ,C,Mattia Zaccagni,Lazio,Napoli,2022-02-27,0.37613496,0.0,0.37613496,overestimated
+35,Scansuolo ,C,Ivan Ilic,Verona,Venezia,2022-02-27,0.3312652,0.0,0.3312652,overestimated
+37,Scansuolo ,A,Ciro Immobile,Lazio,Napoli,2022-02-27,1.5362595,0.0,1.5362595,overestimated
+40,Scansuolo ,A,João Pedro,Cagliari,Torino,2022-02-27,0.9300307,0.0,0.9300307,overestimated
+43,Rione Monti,D,Bremer,Torino,Cagliari,2022-02-27,0.4223109,0.0,0.4223109,overestimated
+44,Rione Monti,D,Wilfried Stephane Singo,Torino,Cagliari,2022-02-27,0.41082478,0.0,0.41082478,overestimated
+47,Rione Monti,D,Simone Bastoni,Spezia,Roma,2022-02-27,0.18663181,0.0,0.18663181,overestimated
+50,Rione Monti,C,Lorenzo Pellegrini,Roma,Spezia,2022-02-27,0.9765937,0.0,0.9765937,overestimated
+51,Rione Monti,C,Nicolo Zaniolo,Roma,Spezia,2022-02-27,0.80881524,0.0,0.80881524,overestimated
+53,Rione Monti,C,Felipe Anderson,Lazio,Napoli,2022-02-27,0.44613206,0.0,0.44613206,overestimated
+55,Rione Monti,C,Adrien Tameze,Verona,Venezia,2022-02-27,0.1379216,0.0,0.1379216,overestimated
+60,Rione Monti,A,Pedro,Lazio,Napoli,2022-02-27,0.7665818,3.0,-2.2334182,underestimated
+70,MaiNa Joya_v2.0,C,Sergej Milinkovic-Savic,Lazio,Napoli,2022-02-27,0.74211675,0.0,0.74211675,overestimated
+71,MaiNa Joya_v2.0,C,Tommaso Pobega,Torino,Cagliari,2022-02-27,0.645403,0.0,0.645403,overestimated
+76,MaiNa Joya_v2.0,A,Tammy Abraham,Roma,Spezia,2022-02-27,1.822571,3.0,-1.177429,underestimated
+77,MaiNa Joya_v2.0,A,Lorenzo Insigne,Napoli,Lazio,2022-02-27,1.3190141,4.0,-2.6809859,underestimated
+80,MaiNa Joya_v2.0,A,Josip Brekalo,Torino,Cagliari,2022-02-27,1.0758191,0.0,1.0758191,overestimated
+86,MEZAFE,D,Gianluca Mancini,Roma,Spezia,2022-02-27,0.23718478,0.0,0.23718478,overestimated
+94,MEZAFE,C,Darko Lazovic,Verona,Venezia,2022-02-27,0.46891692,0.0,0.46891692,overestimated
+99,MEZAFE,A,Antonio Sanabria,Torino,Cagliari,2022-02-27,1.3521591,0.0,1.3521591,overestimated
+100,MEZAFE,A,Giovanni Simeone,Verona,Venezia,2022-02-27,1.2389647,9.0,-7.7610353,underestimated
+107,Beverly INPS,D,Giovanni Di Lorenzo,Napoli,Lazio,2022-02-27,0.2611424,0.0,0.2611424,overestimated
+111,Beverly INPS,C,Antonin Barak,Verona,Venezia,2022-02-27,1.0959916,0.0,1.0959916,overestimated
+112,Beverly INPS,C,Piotr Zielinski,Napoli,Lazio,2022-02-27,0.8183266,0.0,0.8183266,overestimated
+114,Beverly INPS,C,Jordan Veretout,Roma,Spezia,2022-02-27,0.5958149,0.0,0.5958149,overestimated
+116,Beverly INPS,C,Luis Alberto,Lazio,Napoli,2022-02-27,0.41834527,0.0,0.41834527,overestimated
+117,Beverly INPS,C,Eljif Elmas,Napoli,Lazio,2022-02-27,0.28566062,1.0,-0.71433938,underestimated
+127,AI sereje ja dejeDe jebe tu de jebere,D,Amir Rrahmani,Napoli,Lazio,2022-02-27,0.29323938,0.0,0.29323938,overestimated
+128,AI sereje ja dejeDe jebe tu de jebere,D,Francesco Acerbi,Lazio,Napoli,2022-02-27,0.16705523,0.0,0.16705523,overestimated
+135,AI sereje ja dejeDe jebe tu de jebere,C,Sasa Lukic,Torino,Cagliari,2022-02-27,0.43617624,0.0,0.43617624,overestimated
+143,AI sereje ja dejeDe jebe tu de jebere,A,Emmanuel Gyasi,Spezia,Roma,2022-02-27,0.3394077,0.0,0.3394077,overestimated
+146,AC Picchia,D,Marco Faraoni,Verona,Venezia,2022-02-27,0.33447295,1.0,-0.66552705,underestimated
+149,AC Picchia,D,Cristian Ansaldi,Torino,Cagliari,2022-02-27,0.18263482,0.0,0.18263482,overestimated
+150,AC Picchia,D,Dalbert,Cagliari,Torino,2022-02-27,0.101155356,0.0,0.101155356,overestimated
+154,AC Picchia,C,Mattia Aramu,Venezia,Verona,2022-02-27,0.7856576,0.0,0.7856576,overestimated
+159,AC Picchia,C,Razvan Marin,Cagliari,Torino,2022-02-27,0.08993441,0.0,0.08993441,overestimated
+162,AC Picchia,A,Thomas Henry,Venezia,Verona,2022-02-27,0.96804935,0.0,0.96804935,overestimated
+164,AC Picchia,A,Daniele Verde,Spezia,Roma,2022-02-27,0.39337158,0.0,0.39337158,overestimated
