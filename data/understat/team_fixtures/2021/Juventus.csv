@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17042,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-12 17:00:00
 17051,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-20 14:00:00
 17059,False,h,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 02:00:00
 17067,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 02:00:00

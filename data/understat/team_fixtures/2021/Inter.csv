@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
 16947,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 12:30:00
-17044,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-13 19:45:00
 17050,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-19 17:00:00
 17059,False,a,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 02:00:00
 17070,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 02:00:00

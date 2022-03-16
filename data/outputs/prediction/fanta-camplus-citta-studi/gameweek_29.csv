@@ -1,0 +1,167 @@
+fanta_team,role,player,team,opponent,date,expected_bonus
+ssc mozzarella,D,Denzel Dumfries,Inter,Fiorentina,2022-03-19,0.6542975
+ssc mozzarella,D,Mário Rui,Napoli,Udinese,2022-03-19,0.43563384
+ssc mozzarella,D,Chris Smalling,Roma,Lazio,2022-03-20,0.31326595
+ssc mozzarella,D,Ibañez,Roma,Lazio,2022-03-20,0.29874486
+ssc mozzarella,D,Berat Gjimshiti,Atalanta,Bologna,2022-03-20,0.28499794
+ssc mozzarella,D,Fikayo Tomori,AC Milan,Cagliari,2022-03-19,0.16326445
+ssc mozzarella,D,Arthur Theate,Bologna,Atalanta,2022-03-20,0.114184596
+ssc mozzarella,D,Luiz Felipe,Lazio,Roma,2022-03-20,0.10790368
+ssc mozzarella,C,Riccardo Sottil,Fiorentina,Inter,2022-03-19,0.782511
+ssc mozzarella,C,Henrikh Mkhitaryan,Roma,Lazio,2022-03-20,0.7061485
+ssc mozzarella,C,Fabián,Napoli,Udinese,2022-03-19,0.49920672
+ssc mozzarella,C,Stanislav Lobotka,Napoli,Udinese,2022-03-19,0.28096163
+ssc mozzarella,C,Maxime Lopez,Sassuolo,Spezia,2022-03-18,0.2687098
+ssc mozzarella,C,Remo Freuler,Atalanta,Bologna,2022-03-20,0.25367612
+ssc mozzarella,C,Lucas Torreira,Fiorentina,Inter,2022-03-19,0.16337098
+ssc mozzarella,C,Roberto Pereyra,Udinese,Napoli,2022-03-19,0.15371539
+ssc mozzarella,A,Victor Osimhen,Napoli,Udinese,2022-03-19,1.5254767
+ssc mozzarella,A,Manolo Gabbiadini,Sampdoria,Venezia,2022-03-20,1.2021012
+ssc mozzarella,A,Gianluca Caprari,Verona,Empoli,2022-03-20,1.0716889
+ssc mozzarella,A,Federico Bonazzoli,Salernitana,Juventus,2022-03-20,0.7790493
+ssc mozzarella,A,Matteo Politano,Napoli,Udinese,2022-03-19,0.46525833
+ssc mozzarella,A,Leonardo Pavoletti,Cagliari,AC Milan,2022-03-19,0.38116902
+Scansuolo ,D,Mergim Vojvoda,Torino,Genoa,2022-03-18,0.3799634
+Scansuolo ,D,Merih Demiral,Atalanta,Bologna,2022-03-20,0.36196765
+Scansuolo ,D,Rick Karsdorp,Roma,Lazio,2022-03-20,0.3490171
+Scansuolo ,D,Kalidou Koulibaly,Napoli,Udinese,2022-03-19,0.3399649
+Scansuolo ,D,Elseid Hysaj,Lazio,Roma,2022-03-20,0.10493689
+Scansuolo ,D,Aaron Hickey,Bologna,Atalanta,2022-03-20,0.07612998
+Scansuolo ,D,Gabriele Zappa,Cagliari,AC Milan,2022-03-19,0.02082756
+Scansuolo ,C,Junior Messias,AC Milan,Cagliari,2022-03-19,0.70900357
+Scansuolo ,C,Matteo Pessina,Atalanta,Bologna,2022-03-20,0.68566996
+Scansuolo ,C,Brahim Diaz,AC Milan,Cagliari,2022-03-19,0.58816206
+Scansuolo ,C,Szymon Zurkowski,Empoli,Verona,2022-03-20,0.43153533
+Scansuolo ,C,Mattia Zaccagni,Lazio,Roma,2022-03-20,0.3992436
+Scansuolo ,C,Teun Koopmeiners,Atalanta,Bologna,2022-03-20,0.28483957
+Scansuolo ,C,Ivan Ilic,Verona,Empoli,2022-03-20,0.28125468
+Scansuolo ,C,Hamed Junior Traore,Sassuolo,Spezia,2022-03-18,0.19543326
+Scansuolo ,A,Ciro Immobile,Lazio,Roma,2022-03-20,1.4981302
+Scansuolo ,A,Gianluca Scamacca,Sassuolo,Spezia,2022-03-18,1.4922215
+Scansuolo ,A,Rafael Leão,AC Milan,Cagliari,2022-03-19,1.3038664
+Scansuolo ,A,João Pedro,Cagliari,AC Milan,2022-03-19,0.9914119
+Scansuolo ,A,Mikael,Salernitana,Juventus,2022-03-20,0.0608104
+Rione Monti,D,Bremer,Torino,Genoa,2022-03-18,0.418455
+Rione Monti,D,Wilfried Stephane Singo,Torino,Genoa,2022-03-18,0.4069689
+Rione Monti,D,Joakim Maehle,Atalanta,Bologna,2022-03-20,0.39847797
+Rione Monti,D,Cristiano Biraghi,Fiorentina,Inter,2022-03-19,0.21448939
+Rione Monti,D,Giuseppe Pezzella,Atalanta,Bologna,2022-03-20,0.20009217
+Rione Monti,D,Simone Bastoni,Spezia,Sassuolo,2022-03-18,0.16929145
+Rione Monti,D,Ainsley Maitland-Niles,Roma,Lazio,2022-03-20,0.14962737
+Rione Monti,D,Manuel Lazzari,Lazio,Roma,2022-03-20,0.09859439
+Rione Monti,C,Lorenzo Pellegrini,Roma,Lazio,2022-03-20,0.8708313
+Rione Monti,C,Nicolo Zaniolo,Roma,Lazio,2022-03-20,0.8155058
+Rione Monti,C,Davide Frattesi,Sassuolo,Spezia,2022-03-18,0.6248514
+Rione Monti,C,Felipe Anderson,Lazio,Roma,2022-03-20,0.45260626
+Rione Monti,C,Liam Henderson,Empoli,Verona,2022-03-20,0.42693534
+Rione Monti,C,Adrien Tameze,Verona,Empoli,2022-03-20,0.10189019
+Rione Monti,A,Edin Dzeko,Inter,Fiorentina,2022-03-19,1.7254952
+Rione Monti,A,Zlatan Ibrahimovic,AC Milan,Cagliari,2022-03-19,1.7054757
+Rione Monti,A,Andrea Pinamonti,Empoli,Verona,2022-03-20,1.3706988
+Rione Monti,A,Giacomo Raspadori,Sassuolo,Spezia,2022-03-18,1.0447341
+Rione Monti,A,Pedro,Lazio,Roma,2022-03-20,0.77305603
+Rione Monti,A,Felix Afena-Gyan,Roma,Lazio,2022-03-20,0.6744989
+MaiNa Joya_v2.0,D,Theo Hernández,AC Milan,Cagliari,2022-03-19,0.5687591
+MaiNa Joya_v2.0,D,Robin Gosens,Inter,Fiorentina,2022-03-19,0.53983665
+MaiNa Joya_v2.0,D,Gianmarco Ferrari,Sassuolo,Spezia,2022-03-18,0.2543631
+MaiNa Joya_v2.0,D,Rafael Toloi,Atalanta,Bologna,2022-03-20,0.24224727
+MaiNa Joya_v2.0,D,Petar Stojanovic,Empoli,Verona,2022-03-20,0.1868487
+MaiNa Joya_v2.0,D,Nahuel Molina,Udinese,Napoli,2022-03-19,0.1259726
+MaiNa Joya_v2.0,D,Nikola Milenkovic,Fiorentina,Inter,2022-03-19,0.10221861
+MaiNa Joya_v2.0,C,Sergej Milinkovic-Savic,Lazio,Roma,2022-03-20,0.74859107
+MaiNa Joya_v2.0,C,Nicolò Barella,Inter,Fiorentina,2022-03-19,0.738873
+MaiNa Joya_v2.0,C,Tommaso Pobega,Torino,Genoa,2022-03-18,0.64999294
+MaiNa Joya_v2.0,C,Federico Bernardeschi,Juventus,Salernitana,2022-03-20,0.38399732
+MaiNa Joya_v2.0,C,Roberto Soriano,Bologna,Atalanta,2022-03-20,0.30314973
+MaiNa Joya_v2.0,C,Manuel Locatelli,Juventus,Salernitana,2022-03-20,0.29669386
+MaiNa Joya_v2.0,C,Stefano Sensi,Sampdoria,Venezia,2022-03-20,0.02389845
+MaiNa Joya_v2.0,A,Lorenzo Insigne,Napoli,Udinese,2022-03-19,1.6856827
+MaiNa Joya_v2.0,A,Tammy Abraham,Roma,Lazio,2022-03-20,1.6787052
+MaiNa Joya_v2.0,A,Álvaro Morata,Juventus,Salernitana,2022-03-20,1.4392388
+MaiNa Joya_v2.0,A,Josip Brekalo,Torino,Genoa,2022-03-18,1.0481547
+MaiNa Joya_v2.0,A,Marko Arnautovic,Bologna,Atalanta,2022-03-20,0.9480098
+MaiNa Joya_v2.0,A,Jeremie Boga,Atalanta,Bologna,2022-03-20,0.9400184
+MEZAFE,D,Davide Zappacosta,Atalanta,Bologna,2022-03-20,0.50283945
+MEZAFE,D,Domenico Criscito,Genoa,Torino,2022-03-18,0.4869699
+MEZAFE,D,Leonardo Bonucci,Juventus,Salernitana,2022-03-20,0.41809034
+MEZAFE,D,Gianluca Mancini,Roma,Lazio,2022-03-20,0.30803084
+MEZAFE,D,Danilo,Juventus,Salernitana,2022-03-20,0.25604686
+MEZAFE,D,Stefan de Vrij,Inter,Fiorentina,2022-03-19,0.20001766
+MEZAFE,D,Giorgio Chiellini,Juventus,Salernitana,2022-03-20,0.18510172
+MEZAFE,D,Lorenzo De Silvestri,Bologna,Atalanta,2022-03-20,0.16751887
+MEZAFE,C,Mario Pasalic,Atalanta,Bologna,2022-03-20,0.88372767
+MEZAFE,C,Alexis Saelemaekers,AC Milan,Cagliari,2022-03-19,0.6193923
+MEZAFE,C,Weston McKennie,Juventus,Salernitana,2022-03-20,0.4400066
+MEZAFE,C,Simone Verdi,Salernitana,Juventus,2022-03-20,0.42135727
+MEZAFE,C,Darko Lazovic,Verona,Empoli,2022-03-20,0.4104606
+MEZAFE,C,Ivan Perisic,Inter,Fiorentina,2022-03-19,0.39988577
+MEZAFE,C,Sandro Tonali,AC Milan,Cagliari,2022-03-19,0.30096027
+MEZAFE,C,Gaetano Castrovilli,Fiorentina,Inter,2022-03-19,0.06871969
+MEZAFE,A,Paulo Dybala,Juventus,Salernitana,2022-03-20,2.0132165
+MEZAFE,A,Giovanni Simeone,Verona,Empoli,2022-03-20,1.2913225
+MEZAFE,A,Antonio Sanabria,Torino,Genoa,2022-03-18,1.1810514
+MEZAFE,A,Fabio Quagliarella,Sampdoria,Venezia,2022-03-20,1.0169525
+MEZAFE,A,Krzysztof Piatek,Fiorentina,Inter,2022-03-19,0.96785676
+MEZAFE,A,Ante Rebic,AC Milan,Cagliari,2022-03-19,0.4904068
+Beverly INPS,D,Federico Dimarco,Inter,Fiorentina,2022-03-19,0.5111105
+Beverly INPS,D,Juan Cuadrado,Juventus,Salernitana,2022-03-20,0.40851575
+Beverly INPS,D,Giovanni Di Lorenzo,Napoli,Udinese,2022-03-19,0.34198514
+Beverly INPS,D,Alessandro Bastoni,Inter,Fiorentina,2022-03-19,0.19021729
+Beverly INPS,D,Alessio Romagnoli,AC Milan,Cagliari,2022-03-19,0.17244744
+Beverly INPS,D,Andrea Cambiaso,Genoa,Torino,2022-03-18,0.15892199
+Beverly INPS,D,Bram Nuytinck,Udinese,Napoli,2022-03-19,0.022282941
+Beverly INPS,C,Antonin Barak,Verona,Empoli,2022-03-20,1.0086151
+Beverly INPS,C,Piotr Zielinski,Napoli,Udinese,2022-03-19,0.91478884
+Beverly INPS,C,Dennis Praet,Torino,Genoa,2022-03-18,0.7098429
+Beverly INPS,C,Jordan Veretout,Roma,Lazio,2022-03-20,0.62028587
+Beverly INPS,C,Franck Kessié,AC Milan,Cagliari,2022-03-19,0.5671091
+Beverly INPS,C,Luis Alberto,Lazio,Roma,2022-03-20,0.42944172
+Beverly INPS,C,Eljif Elmas,Napoli,Udinese,2022-03-19,0.36650336
+Beverly INPS,A,Lautaro Martínez,Inter,Fiorentina,2022-03-19,1.8803376
+Beverly INPS,A,Domenico Berardi,Sassuolo,Spezia,2022-03-18,1.5418196
+Beverly INPS,A,Dries Mertens,Napoli,Udinese,2022-03-19,1.3515989
+Beverly INPS,A,Gerard Deulofeu,Udinese,Napoli,2022-03-19,0.8893962
+Beverly INPS,A,Musa Barrow,Bologna,Atalanta,2022-03-20,0.7332534
+Beverly INPS,A,Nicolás González,Fiorentina,Inter,2022-03-19,0.6220744
+AI sereje ja dejeDe jebe tu de jebere,D,Amir Rrahmani,Napoli,Udinese,2022-03-19,0.37408218
+AI sereje ja dejeDe jebe tu de jebere,D,Milan Skriniar,Inter,Fiorentina,2022-03-19,0.3053681
+AI sereje ja dejeDe jebe tu de jebere,D,Hans Hateboer,Atalanta,Bologna,2022-03-20,0.2573003
+AI sereje ja dejeDe jebe tu de jebere,D,Matteo Darmian,Inter,Fiorentina,2022-03-19,0.24785103
+AI sereje ja dejeDe jebe tu de jebere,D,Axel Tuanzebe,Napoli,Udinese,2022-03-19,0.24263556
+AI sereje ja dejeDe jebe tu de jebere,D,Francesco Acerbi,Lazio,Roma,2022-03-20,0.14945163
+AI sereje ja dejeDe jebe tu de jebere,D,Maya Yoshida,Sampdoria,Venezia,2022-03-20,0.10929037
+AI sereje ja dejeDe jebe tu de jebere,C,Nedim Bajrami,Empoli,Verona,2022-03-20,0.8601025
+AI sereje ja dejeDe jebe tu de jebere,C,Filip Djuricic,Sassuolo,Spezia,2022-03-18,0.8195605
+AI sereje ja dejeDe jebe tu de jebere,C,Antonio Candreva,Sampdoria,Venezia,2022-03-20,0.7541346
+AI sereje ja dejeDe jebe tu de jebere,C,Sasa Lukic,Torino,Genoa,2022-03-18,0.43232036
+AI sereje ja dejeDe jebe tu de jebere,C,Giacomo Bonaventura,Fiorentina,Inter,2022-03-19,0.40915382
+AI sereje ja dejeDe jebe tu de jebere,C,Denis Zakaria,Juventus,Salernitana,2022-03-20,0.19877355
+AI sereje ja dejeDe jebe tu de jebere,C,Mattias Svanberg,Bologna,Atalanta,2022-03-20,0.15800132
+AI sereje ja dejeDe jebe tu de jebere,A,Dusan Vlahovic,Juventus,Salernitana,2022-03-20,2.4250402
+AI sereje ja dejeDe jebe tu de jebere,A,Duván Zapata,Atalanta,Bologna,2022-03-20,1.8335063
+AI sereje ja dejeDe jebe tu de jebere,A,Hirving Lozano,Napoli,Udinese,2022-03-19,1.0721805
+AI sereje ja dejeDe jebe tu de jebere,A,Mattia Destro,Genoa,Torino,2022-03-18,0.9166233
+AI sereje ja dejeDe jebe tu de jebere,A,Beto,Udinese,Napoli,2022-03-19,0.86766267
+AI sereje ja dejeDe jebe tu de jebere,A,Emmanuel Gyasi,Spezia,Sassuolo,2022-03-18,0.32206732
+AC Picchia,D,Davide Calabria,AC Milan,Cagliari,2022-03-19,0.5649958
+AC Picchia,D,Alessandro Florenzi,AC Milan,Cagliari,2022-03-19,0.3475288
+AC Picchia,D,Marco Faraoni,Verona,Empoli,2022-03-20,0.28446242
+AC Picchia,D,Matthijs de Ligt,Juventus,Salernitana,2022-03-20,0.2763945
+AC Picchia,D,Cristian Ansaldi,Torino,Genoa,2022-03-18,0.21166903
+AC Picchia,D,Tommaso Augello,Sampdoria,Venezia,2022-03-20,0.14117035
+AC Picchia,D,Dalbert,Cagliari,AC Milan,2022-03-19,0.13091129
+AC Picchia,D,Álvaro Odriozola,Fiorentina,Inter,2022-03-19,0.114734225
+AC Picchia,C,Ruslan Malinovskiy,Atalanta,Bologna,2022-03-20,1.0073844
+AC Picchia,C,Mattia Aramu,Venezia,Sampdoria,2022-03-20,0.9433967
+AC Picchia,C,Hakan Calhanoglu,Inter,Fiorentina,2022-03-19,0.7690924
+AC Picchia,C,Riccardo Orsolini,Bologna,Atalanta,2022-03-20,0.3051544
+AC Picchia,C,Morten Thorsby,Sampdoria,Venezia,2022-03-20,0.29666087
+AC Picchia,C,Marcelo Brozovic,Inter,Fiorentina,2022-03-19,0.25021636
+AC Picchia,C,Nahitan Nández,Cagliari,AC Milan,2022-03-19,0.122728
+AC Picchia,C,Razvan Marin,Cagliari,AC Milan,2022-03-19,0.11969031
+AC Picchia,A,Luis Muriel,Atalanta,Bologna,2022-03-20,1.4435953
+AC Picchia,A,Olivier Giroud,AC Milan,Cagliari,2022-03-19,1.2451767
+AC Picchia,A,Thomas Henry,Venezia,Sampdoria,2022-03-20,1.1106181
+AC Picchia,A,Francesco Caputo,Sampdoria,Venezia,2022-03-20,1.0798018
+AC Picchia,A,Daniele Verde,Spezia,Sassuolo,2022-03-18,0.3875885
+AC Picchia,A,Arthur Cabral,Fiorentina,Inter,2022-03-19,0.048483033
