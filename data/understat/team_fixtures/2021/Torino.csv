@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
 16946,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 16:30:00
-17049,False,a,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-18 20:00:00
 17062,False,a,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 02:00:00
 17074,False,h,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 02:00:00
 17080,False,a,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 02:00:00

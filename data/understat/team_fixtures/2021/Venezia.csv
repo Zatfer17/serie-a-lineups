@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
 16952,False,a,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 18:30:00
-17055,False,h,"{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-20 11:30:00
 17064,False,a,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 02:00:00
 17075,False,h,"{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 02:00:00
 17078,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 02:00:00

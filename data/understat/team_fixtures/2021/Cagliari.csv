@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17047,False,h,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-03-19 19:45:00
 17065,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 02:00:00
 17067,False,h,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 02:00:00
 17077,False,h,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 02:00:00
