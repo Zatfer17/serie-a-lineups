@@ -1,9 +1,8 @@
 id,isResult,side,h,a,goals,xG,datetime
-16948,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 20:45:00
-17057,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 02:00:00
-17071,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 02:00:00
-17078,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 02:00:00
-17092,False,a,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 02:00:00
+17071,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 13:00:00
+17078,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 14:30:00
+17092,False,a,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
+16948,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-26 23:00:00
 17100,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00
 17106,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 02:00:00
 17124,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 02:00:00

@@ -1,8 +1,7 @@
 id,isResult,side,h,a,goals,xG,datetime
-17057,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-03 02:00:00
-17068,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 02:00:00
-17085,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 02:00:00
-17087,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 02:00:00
+17068,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-09 13:00:00
+17085,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 12:30:00
+17087,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
 17098,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00
 17109,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 02:00:00
 17118,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 02:00:00
