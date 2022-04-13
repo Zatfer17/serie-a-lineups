@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17069,False,h,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 10:30:00
 17081,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-15 19:00:00
 17088,False,h,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
 17103,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00

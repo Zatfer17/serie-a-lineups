@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17071,False,h,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 13:00:00
 17082,False,h,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-18 17:00:00
 17087,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
 17101,False,h,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00

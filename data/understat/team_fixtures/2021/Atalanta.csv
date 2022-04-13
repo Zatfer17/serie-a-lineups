@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
 16946,False,h,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-01-06 16:30:00
-17073,False,a,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 13:00:00
 17076,False,h,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-18 19:00:00
 17095,False,a,"{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
 17096,False,h,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00

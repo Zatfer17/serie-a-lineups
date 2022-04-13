@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17068,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-09 13:00:00
 17084,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-15 17:00:00
 17094,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
 17104,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00

@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17073,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-10 13:00:00
 17077,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 10:30:00
 17093,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
 17101,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00

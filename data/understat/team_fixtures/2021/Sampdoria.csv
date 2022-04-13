@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17066,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-11 18:45:00
 17083,False,h,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-16 12:30:00
 17089,False,a,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
 17103,False,h,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00
