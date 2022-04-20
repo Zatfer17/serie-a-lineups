@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17076,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-18 19:00:00
 17089,False,h,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
 17097,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00
 17108,False,h,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 02:00:00
