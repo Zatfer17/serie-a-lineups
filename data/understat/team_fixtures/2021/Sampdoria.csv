@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
-17089,False,a,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
-17103,False,h,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00
-17110,False,a,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 02:00:00
-17124,False,h,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 02:00:00
-17129,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 02:00:00
+17103,False,h,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-30 16:00:00
+17110,False,a,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 00:00:00
+17124,False,h,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 00:00:00
+17129,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 00:00:00

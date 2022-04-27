@@ -1,7 +1,6 @@
 id,isResult,side,h,a,goals,xG,datetime
-17090,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-24 13:00:00
-16947,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-26 23:00:00
-17105,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 02:00:00
-17109,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 02:00:00
-17117,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 02:00:00
-17129,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 02:00:00
+16947,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-27 18:15:00
+17105,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 00:00:00
+17109,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 00:00:00
+17117,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 00:00:00
+17129,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 00:00:00
