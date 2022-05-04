@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17102,False,h,"{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 00:00:00
-17106,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 00:00:00
-17123,False,h,"{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 00:00:00
-17134,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 00:00:00
+17106,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-09 18:45:00
+17123,False,h,"{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-14 18:45:00
+17134,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

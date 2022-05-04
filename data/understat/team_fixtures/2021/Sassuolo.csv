@@ -1,5 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-17101,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-30 13:00:00
-17112,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 00:00:00
-17116,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 00:00:00
-17132,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 00:00:00
+17112,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-07 16:00:00
+17116,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 10:30:00
+17132,False,h,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

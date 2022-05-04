@@ -1,6 +1,4 @@
 id,isResult,side,h,a,goals,xG,datetime
-16948,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-27 16:00:00
-17100,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 00:00:00
-17106,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 00:00:00
-17124,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 00:00:00
-17127,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 00:00:00
+17106,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-09 18:45:00
+17124,False,a,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-16 16:30:00
+17127,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

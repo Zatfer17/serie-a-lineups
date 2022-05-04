@@ -1,6 +1,5 @@
 id,isResult,side,h,a,goals,xG,datetime
-16952,False,h,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-04-26 21:00:00
-17096,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-01 00:00:00
-17111,False,h,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 00:00:00
-17118,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 00:00:00
-17131,False,h,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 00:00:00
+16952,False,h,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-05 16:00:00
+17111,False,h,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-08 16:00:00
+17118,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-14 13:00:00
+17131,False,h,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00
