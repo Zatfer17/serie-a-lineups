@@ -1,4 +1,3 @@
 id,isResult,side,h,a,goals,xG,datetime
-17114,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-07 13:00:00
 17122,False,h,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 13:00:00
 17133,False,a,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

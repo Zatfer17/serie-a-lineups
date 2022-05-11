@@ -1,4 +1,3 @@
 id,isResult,side,h,a,goals,xG,datetime
-17109,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-06 16:45:00
 17118,False,h,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-14 13:00:00
 17126,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00
