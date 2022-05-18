@@ -1,3 +1,2 @@
 id,isResult,side,h,a,goals,xG,datetime
-17119,False,h,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-14 16:00:00
 17130,False,a,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

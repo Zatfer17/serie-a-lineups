@@ -1,3 +1,2 @@
 id,isResult,side,h,a,goals,xG,datetime
-17123,False,a,"{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-14 18:45:00
 17135,False,h,"{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

@@ -1,3 +1,2 @@
 id,isResult,side,h,a,goals,xG,datetime
-17117,False,h,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 18:45:00
 17135,False,a,"{'id': '265', 'title': 'Venezia', 'short_title': 'VEN'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

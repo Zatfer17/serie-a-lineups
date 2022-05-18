@@ -1,3 +1,2 @@
 id,isResult,side,h,a,goals,xG,datetime
-17121,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 16:00:00
 17126,False,h,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

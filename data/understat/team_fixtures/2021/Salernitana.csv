@@ -1,3 +1,2 @@
 id,isResult,side,h,a,goals,xG,datetime
-17118,False,a,"{'id': '108', 'title': 'Empoli', 'short_title': 'EMP'}","{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-14 13:00:00
 17131,False,h,"{'id': '264', 'title': 'Salernitana', 'short_title': 'SAL'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

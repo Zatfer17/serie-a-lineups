@@ -1,3 +1,2 @@
 id,isResult,side,h,a,goals,xG,datetime
-17125,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-14 16:00:00
 17133,False,h,"{'id': '260', 'title': 'Spezia', 'short_title': 'SPE'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

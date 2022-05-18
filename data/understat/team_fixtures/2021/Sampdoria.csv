@@ -1,3 +1,2 @@
 id,isResult,side,h,a,goals,xG,datetime
-17124,False,h,"{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-16 16:30:00
 17129,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '102', 'title': 'Sampdoria', 'short_title': 'SAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00

@@ -1,3 +1,2 @@
 id,isResult,side,h,a,goals,xG,datetime
-17122,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-15 13:00:00
 17128,False,h,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2022-05-22 13:00:00
